@@ -1,0 +1,15 @@
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\obj\Debug\net6.0\MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\obj\Debug\net6.0\MagicNumbers.AssemblyInfoInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\obj\Debug\net6.0\MagicNumbers.AssemblyInfo.cs
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\obj\Debug\net6.0\MagicNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\obj\Debug\net6.0\MagicNumbers.sourcelink.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\bin\Debug\net6.0\MagicNumbers.exe
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\bin\Debug\net6.0\MagicNumbers.deps.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\bin\Debug\net6.0\MagicNumbers.runtimeconfig.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\bin\Debug\net6.0\MagicNumbers.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\bin\Debug\net6.0\MagicNumbers.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\obj\Debug\net6.0\MagicNumbers.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\obj\Debug\net6.0\refint\MagicNumbers.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\obj\Debug\net6.0\MagicNumbers.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\obj\Debug\net6.0\MagicNumbers.genruntimeconfig.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\MagicNumbers\obj\Debug\net6.0\ref\MagicNumbers.dll

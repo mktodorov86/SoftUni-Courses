@@ -1,0 +1,15 @@
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\bin\Debug\net6.0\HappyNumbers.exe
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\bin\Debug\net6.0\HappyNumbers.deps.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\bin\Debug\net6.0\HappyNumbers.runtimeconfig.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\bin\Debug\net6.0\HappyNumbers.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\bin\Debug\net6.0\HappyNumbers.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\obj\Debug\net6.0\HappyNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\obj\Debug\net6.0\HappyNumbers.AssemblyInfoInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\obj\Debug\net6.0\HappyNumbers.AssemblyInfo.cs
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\obj\Debug\net6.0\HappyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\obj\Debug\net6.0\HappyNumbers.sourcelink.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\obj\Debug\net6.0\HappyNumbers.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\obj\Debug\net6.0\refint\HappyNumbers.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\obj\Debug\net6.0\HappyNumbers.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\obj\Debug\net6.0\HappyNumbers.genruntimeconfig.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\HappyNumbers\obj\Debug\net6.0\ref\HappyNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.AssemblyInfo.cs
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.sourcelink.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\bin\Debug\net6.0\FactorialDivision.exe
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\bin\Debug\net6.0\FactorialDivision.deps.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\bin\Debug\net6.0\FactorialDivision.runtimeconfig.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\bin\Debug\net6.0\FactorialDivision.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\bin\Debug\net6.0\FactorialDivision.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\obj\Debug\net6.0\refint\FactorialDivision.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\obj\Debug\net6.0\FactorialDivision.genruntimeconfig.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\FactorialDivision\obj\Debug\net6.0\ref\FactorialDivision.dll

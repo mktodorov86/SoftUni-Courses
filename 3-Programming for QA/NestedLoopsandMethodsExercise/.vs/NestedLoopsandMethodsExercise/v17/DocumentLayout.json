@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B60F528-4097-4070-BFEA-E45B996CDD39}|HappyNumbers\\HappyNumbers.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\nestedloopsandmethodsexercise\\happynumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B60F528-4097-4070-BFEA-E45B996CDD39}|HappyNumbers\\HappyNumbers.csproj|solutionrelative:happynumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB116FCF-A64A-4A13-A862-02AF70C35642}|MagicNumbers\\MagicNumbers.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\nestedloopsandmethodsexercise\\magicnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB116FCF-A64A-4A13-A862-02AF70C35642}|MagicNumbers\\MagicNumbers.csproj|solutionrelative:magicnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7614D5D1-CBBB-4C10-8A22-DAE3A8A173F9}|PasswordValidator\\PasswordValidator.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\nestedloopsandmethodsexercise\\passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7614D5D1-CBBB-4C10-8A22-DAE3A8A173F9}|PasswordValidator\\PasswordValidator.csproj|solutionrelative:passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4669261D-B2F3-47F3-9E40-AB1B01492F6B}|MultiplicationSign\\MultiplicationSign.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\nestedloopsandmethodsexercise\\multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4669261D-B2F3-47F3-9E40-AB1B01492F6B}|MultiplicationSign\\MultiplicationSign.csproj|solutionrelative:multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21506C55-2E50-494D-BF8F-CBD300034BAD}|FactorialDivision\\FactorialDivision.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\nestedloopsandmethodsexercise\\factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21506C55-2E50-494D-BF8F-CBD300034BAD}|FactorialDivision\\FactorialDivision.csproj|solutionrelative:factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086E08E5-9A82-4A55-9B33-72B4C6813C91}|VowelsCount\\VowelsCount.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\nestedloopsandmethodsexercise\\vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086E08E5-9A82-4A55-9B33-72B4C6813C91}|VowelsCount\\VowelsCount.csproj|solutionrelative:vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F52ECB-8CCF-4821-891F-3FDD1515BC18}|LetterCombinations\\LetterCombinations.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\nestedloopsandmethodsexercise\\lettercombinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F52ECB-8CCF-4821-891F-3FDD1515BC18}|LetterCombinations\\LetterCombinations.csproj|solutionrelative:lettercombinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17949085-9F1B-4C52-880B-DA03C4FDE293}|UniquePINCodes\\UniquePINCodes.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\nestedloopsandmethodsexercise\\uniquepincodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17949085-9F1B-4C52-880B-DA03C4FDE293}|UniquePINCodes\\UniquePINCodes.csproj|solutionrelative:uniquepincodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC61EF7-1030-4858-AA87-C612BD1BFC77}|StupidPassword\\StupidPassword.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\nestedloopsandmethodsexercise\\stupidpassword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC61EF7-1030-4858-AA87-C612BD1BFC77}|StupidPassword\\StupidPassword.csproj|solutionrelative:stupidpassword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\PasswordValidator\\Program.cs",
+              "RelativeDocumentMoniker": "PasswordValidator\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\PasswordValidator\\Program.cs",
+              "RelativeToolTip": "PasswordValidator\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:19:52.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\MultiplicationSign\\Program.cs",
+              "RelativeDocumentMoniker": "MultiplicationSign\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\MultiplicationSign\\Program.cs",
+              "RelativeToolTip": "MultiplicationSign\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:10:42.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\FactorialDivision\\Program.cs",
+              "RelativeDocumentMoniker": "FactorialDivision\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\FactorialDivision\\Program.cs",
+              "RelativeToolTip": "FactorialDivision\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:06:04.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\VowelsCount\\Program.cs",
+              "RelativeDocumentMoniker": "VowelsCount\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\VowelsCount\\Program.cs",
+              "RelativeToolTip": "VowelsCount\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:02:48.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\HappyNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "HappyNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\HappyNumbers\\Program.cs",
+              "RelativeToolTip": "HappyNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:34:16.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\LetterCombinations\\Program.cs",
+              "RelativeDocumentMoniker": "LetterCombinations\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\LetterCombinations\\Program.cs",
+              "RelativeToolTip": "LetterCombinations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:22:18.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\UniquePINCodes\\Program.cs",
+              "RelativeDocumentMoniker": "UniquePINCodes\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\UniquePINCodes\\Program.cs",
+              "RelativeToolTip": "UniquePINCodes\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:00:10.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\MagicNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "MagicNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\MagicNumbers\\Program.cs",
+              "RelativeToolTip": "MagicNumbers\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:40:08.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\StupidPassword\\Program.cs",
+              "RelativeDocumentMoniker": "StupidPassword\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\NestedLoopsandMethodsExercise\\StupidPassword\\Program.cs",
+              "RelativeToolTip": "StupidPassword\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:26:26.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

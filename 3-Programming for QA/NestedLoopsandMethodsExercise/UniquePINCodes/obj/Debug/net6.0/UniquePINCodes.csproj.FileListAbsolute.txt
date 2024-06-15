@@ -1,0 +1,15 @@
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.AssemblyInfoInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.AssemblyInfo.cs
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.csproj.CoreCompileInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.sourcelink.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.exe
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.deps.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.runtimeconfig.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\obj\Debug\net6.0\refint\UniquePINCodes.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.genruntimeconfig.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\UniquePINCodes\obj\Debug\net6.0\ref\UniquePINCodes.dll

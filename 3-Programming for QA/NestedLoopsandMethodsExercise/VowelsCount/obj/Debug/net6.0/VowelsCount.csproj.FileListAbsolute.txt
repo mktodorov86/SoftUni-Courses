@@ -1,0 +1,15 @@
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\bin\Debug\net6.0\VowelsCount.exe
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\bin\Debug\net6.0\VowelsCount.deps.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\bin\Debug\net6.0\VowelsCount.runtimeconfig.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\bin\Debug\net6.0\VowelsCount.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\bin\Debug\net6.0\VowelsCount.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\obj\Debug\net6.0\VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\obj\Debug\net6.0\VowelsCount.AssemblyInfoInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\obj\Debug\net6.0\VowelsCount.AssemblyInfo.cs
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\obj\Debug\net6.0\VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\obj\Debug\net6.0\VowelsCount.sourcelink.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\obj\Debug\net6.0\VowelsCount.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\obj\Debug\net6.0\refint\VowelsCount.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\obj\Debug\net6.0\VowelsCount.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\obj\Debug\net6.0\VowelsCount.genruntimeconfig.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\NestedLoopsandMethodsExercise\VowelsCount\obj\Debug\net6.0\ref\VowelsCount.dll
