@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\LargestNumberOutofThree\bin\Debug\net6.0\LargestNumberOutofThree.exe
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\LargestNumberOutofThree\bin\Debug\net6.0\LargestNumberOutofThree.deps.json
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\LargestNumberOutofThree\bin\Debug\net6.0\LargestNumberOutofThree.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\LargestNumberOutofThree\bin\Debug\net6.0\LargestNumberOutofThree.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\LargestNumberOutofThree\bin\Debug\net6.0\LargestNumberOutofThree.pdb
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\LargestNumberOutofThree\obj\Debug\net6.0\LargestNumberOutofThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\LargestNumberOutofThree\obj\Debug\net6.0\LargestNumberOutofThree.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\LargestNumberOutofThree\obj\Debug\net6.0\LargestNumberOutofThree.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\LargestNumberOutofThree\obj\Debug\net6.0\LargestNumberOutofThree.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\LargestNumberOutofThree\obj\Debug\net6.0\LargestNumberOutofThree.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\LargestNumberOutofThree\obj\Debug\net6.0\refint\LargestNumberOutofThree.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\LargestNumberOutofThree\obj\Debug\net6.0\LargestNumberOutofThree.pdb
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\LargestNumberOutofThree\obj\Debug\net6.0\LargestNumberOutofThree.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\LargestNumberOutofThree\obj\Debug\net6.0\ref\LargestNumberOutofThree.dll

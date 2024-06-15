@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5243835F-C5F7-475E-8373-18971DF2B7D8}|Movie\\Movie.csproj|c:\\users\\mktod\\qafundamentals\\complexconditionalstatementslab\\movie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5243835F-C5F7-475E-8373-18971DF2B7D8}|Movie\\Movie.csproj|solutionrelative:movie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B7BEBC-B53C-45F7-B410-2B271548238C}|FoodorDrink\\FoodorDrink.csproj|c:\\users\\mktod\\qafundamentals\\complexconditionalstatementslab\\foodordrink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B7BEBC-B53C-45F7-B410-2B271548238C}|FoodorDrink\\FoodorDrink.csproj|solutionrelative:foodordrink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA083E9-9407-4A29-858D-CD601D151DFB}|BonusScore\\BonusScore.csproj|c:\\users\\mktod\\qafundamentals\\complexconditionalstatementslab\\bonusscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA083E9-9407-4A29-858D-CD601D151DFB}|BonusScore\\BonusScore.csproj|solutionrelative:bonusscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A99251-973C-4677-AA96-AE4AF3BD5072}|MarketPlace\\MarketPlace.csproj|c:\\users\\mktod\\qafundamentals\\complexconditionalstatementslab\\marketplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A99251-973C-4677-AA96-AE4AF3BD5072}|MarketPlace\\MarketPlace.csproj|solutionrelative:marketplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB69AC94-5BEC-4D62-911F-4954A8096547}|SortedNumbers\\SortedNumbers.csproj|c:\\users\\mktod\\qafundamentals\\complexconditionalstatementslab\\sortednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB69AC94-5BEC-4D62-911F-4954A8096547}|SortedNumbers\\SortedNumbers.csproj|solutionrelative:sortednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34BBE74-897C-4177-B264-97A572711F03}|VowelorConsonant\\VowelorConsonant.csproj|c:\\users\\mktod\\qafundamentals\\complexconditionalstatementslab\\vowelorconsonant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34BBE74-897C-4177-B264-97A572711F03}|VowelorConsonant\\VowelorConsonant.csproj|solutionrelative:vowelorconsonant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59B231D-7E07-4879-B90B-9C47F23CDA43}|DayofWeek\\DayofWeek.csproj|c:\\users\\mktod\\qafundamentals\\complexconditionalstatementslab\\dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59B231D-7E07-4879-B90B-9C47F23CDA43}|DayofWeek\\DayofWeek.csproj|solutionrelative:dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D690BD22-3DFA-4AC2-B166-D79A2F3894A2}|InvalidNumber\\InvalidNumber.csproj|c:\\users\\mktod\\qafundamentals\\complexconditionalstatementslab\\invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D690BD22-3DFA-4AC2-B166-D79A2F3894A2}|InvalidNumber\\InvalidNumber.csproj|solutionrelative:invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1CBCE3-BC7C-4A48-BC5A-9692C1255177}|LargestNumberOutofThree\\LargestNumberOutofThree.csproj|c:\\users\\mktod\\qafundamentals\\complexconditionalstatementslab\\largestnumberoutofthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1CBCE3-BC7C-4A48-BC5A-9692C1255177}|LargestNumberOutofThree\\LargestNumberOutofThree.csproj|solutionrelative:largestnumberoutofthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\Movie\\Program.cs",
+              "RelativeDocumentMoniker": "Movie\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\Movie\\Program.cs",
+              "RelativeToolTip": "Movie\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:56:40.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\SortedNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SortedNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\SortedNumbers\\Program.cs",
+              "RelativeToolTip": "SortedNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:52:34.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\VowelorConsonant\\Program.cs",
+              "RelativeDocumentMoniker": "VowelorConsonant\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\VowelorConsonant\\Program.cs",
+              "RelativeToolTip": "VowelorConsonant\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:46:40.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\DayofWeek\\Program.cs",
+              "RelativeDocumentMoniker": "DayofWeek\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\DayofWeek\\Program.cs",
+              "RelativeToolTip": "DayofWeek\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:38:46.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\InvalidNumber\\Program.cs",
+              "RelativeDocumentMoniker": "InvalidNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\InvalidNumber\\Program.cs",
+              "RelativeToolTip": "InvalidNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:23:50.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\FoodorDrink\\Program.cs",
+              "RelativeDocumentMoniker": "FoodorDrink\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\FoodorDrink\\Program.cs",
+              "RelativeToolTip": "FoodorDrink\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:09:19.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\BonusScore\\Program.cs",
+              "RelativeDocumentMoniker": "BonusScore\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\BonusScore\\Program.cs",
+              "RelativeToolTip": "BonusScore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:42:55.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\LargestNumberOutofThree\\Program.cs",
+              "RelativeDocumentMoniker": "LargestNumberOutofThree\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\LargestNumberOutofThree\\Program.cs",
+              "RelativeToolTip": "LargestNumberOutofThree\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:33:24.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\MarketPlace\\Program.cs",
+              "RelativeDocumentMoniker": "MarketPlace\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\ComplexConditionalStatementsLab\\MarketPlace\\Program.cs",
+              "RelativeToolTip": "MarketPlace\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:24:13.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

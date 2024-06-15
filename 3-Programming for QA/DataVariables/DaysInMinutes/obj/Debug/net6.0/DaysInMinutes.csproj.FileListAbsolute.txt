@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\DataVariables\DaysInMinutes\bin\Debug\net6.0\DaysInMinutes.exe
+C:\Users\mktod\QAFundamentals\DataVariables\DaysInMinutes\bin\Debug\net6.0\DaysInMinutes.deps.json
+C:\Users\mktod\QAFundamentals\DataVariables\DaysInMinutes\bin\Debug\net6.0\DaysInMinutes.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\DataVariables\DaysInMinutes\bin\Debug\net6.0\DaysInMinutes.dll
+C:\Users\mktod\QAFundamentals\DataVariables\DaysInMinutes\bin\Debug\net6.0\DaysInMinutes.pdb
+C:\Users\mktod\QAFundamentals\DataVariables\DaysInMinutes\obj\Debug\net6.0\DaysInMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\DataVariables\DaysInMinutes\obj\Debug\net6.0\DaysInMinutes.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\DataVariables\DaysInMinutes\obj\Debug\net6.0\DaysInMinutes.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\DataVariables\DaysInMinutes\obj\Debug\net6.0\DaysInMinutes.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\DataVariables\DaysInMinutes\obj\Debug\net6.0\DaysInMinutes.dll
+C:\Users\mktod\QAFundamentals\DataVariables\DaysInMinutes\obj\Debug\net6.0\refint\DaysInMinutes.dll
+C:\Users\mktod\QAFundamentals\DataVariables\DaysInMinutes\obj\Debug\net6.0\DaysInMinutes.pdb
+C:\Users\mktod\QAFundamentals\DataVariables\DaysInMinutes\obj\Debug\net6.0\DaysInMinutes.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\DataVariables\DaysInMinutes\obj\Debug\net6.0\ref\DaysInMinutes.dll

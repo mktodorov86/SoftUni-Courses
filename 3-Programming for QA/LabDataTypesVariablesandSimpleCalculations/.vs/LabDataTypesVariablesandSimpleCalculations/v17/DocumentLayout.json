@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB832F5-C094-4BCC-B3E8-49C3DE82A14C}|Aquarium\\Aquarium.csproj|c:\\users\\mktod\\qafundamentals\\labdatatypesvariablesandsimplecalculations\\aquarium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB832F5-C094-4BCC-B3E8-49C3DE82A14C}|Aquarium\\Aquarium.csproj|solutionrelative:aquarium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4466B7E4-85A3-441E-A7D3-683AC29C562F}|Basketballequipment\\Basketballequipment.csproj|c:\\users\\mktod\\qafundamentals\\labdatatypesvariablesandsimplecalculations\\basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4466B7E4-85A3-441E-A7D3-683AC29C562F}|Basketballequipment\\Basketballequipment.csproj|solutionrelative:basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C945BEB7-61E2-4D18-AA94-3F780B877477}|FoodDelivery\\FoodDelivery.csproj|c:\\users\\mktod\\qafundamentals\\labdatatypesvariablesandsimplecalculations\\fooddelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C945BEB7-61E2-4D18-AA94-3F780B877477}|FoodDelivery\\FoodDelivery.csproj|solutionrelative:fooddelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A37CD40-CC7B-458E-891B-F2741495BA84}|LabDataTypesVariablesandSimpleCalculations\\LabDataTypesVariablesandSimpleCalculations.csproj|c:\\users\\mktod\\qafundamentals\\labdatatypesvariablesandsimplecalculations\\labdatatypesvariablesandsimplecalculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A37CD40-CC7B-458E-891B-F2741495BA84}|LabDataTypesVariablesandSimpleCalculations\\LabDataTypesVariablesandSimpleCalculations.csproj|solutionrelative:labdatatypesvariablesandsimplecalculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5478A18F-406F-4E82-B6CD-E4C10482752C}|Redecorating\\Redecorating.csproj|c:\\users\\mktod\\qafundamentals\\labdatatypesvariablesandsimplecalculations\\redecorating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5478A18F-406F-4E82-B6CD-E4C10482752C}|Redecorating\\Redecorating.csproj|solutionrelative:redecorating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD45788D-4824-4A8A-AC1E-0E0D7E82B5DE}|CenturiestoMinutes\\CenturiestoMinutes.csproj|c:\\users\\mktod\\qafundamentals\\labdatatypesvariablesandsimplecalculations\\centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD45788D-4824-4A8A-AC1E-0E0D7E82B5DE}|CenturiestoMinutes\\CenturiestoMinutes.csproj|solutionrelative:centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD45788D-4824-4A8A-AC1E-0E0D7E82B5DE}|CenturiestoMinutes\\CenturiestoMinutes.csproj|c:\\users\\mktod\\qafundamentals\\labdatatypesvariablesandsimplecalculations\\centuriestominutes\\centuriestominutes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD45788D-4824-4A8A-AC1E-0E0D7E82B5DE}|CenturiestoMinutes\\CenturiestoMinutes.csproj|solutionrelative:centuriestominutes\\centuriestominutes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\Aquarium\\Program.cs",
+              "RelativeDocumentMoniker": "Aquarium\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\Aquarium\\Program.cs",
+              "RelativeToolTip": "Aquarium\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:36:21.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\Basketballequipment\\Program.cs",
+              "RelativeDocumentMoniker": "Basketballequipment\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\Basketballequipment\\Program.cs",
+              "RelativeToolTip": "Basketballequipment\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:18:20.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\FoodDelivery\\Program.cs",
+              "RelativeDocumentMoniker": "FoodDelivery\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\FoodDelivery\\Program.cs",
+              "RelativeToolTip": "FoodDelivery\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:58:11.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\Redecorating\\Program.cs",
+              "RelativeDocumentMoniker": "Redecorating\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\Redecorating\\Program.cs",
+              "RelativeToolTip": "Redecorating\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:22:43.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CenturiestoMinutes",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\CenturiestoMinutes\\CenturiestoMinutes.csproj",
+              "RelativeDocumentMoniker": "CenturiestoMinutes\\CenturiestoMinutes.csproj",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\CenturiestoMinutes\\CenturiestoMinutes.csproj",
+              "RelativeToolTip": "CenturiestoMinutes\\CenturiestoMinutes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T10:21:02.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\CenturiestoMinutes\\Program.cs",
+              "RelativeDocumentMoniker": "CenturiestoMinutes\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\CenturiestoMinutes\\Program.cs",
+              "RelativeToolTip": "CenturiestoMinutes\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:58:39.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\LabDataTypesVariablesandSimpleCalculations\\Program.cs",
+              "RelativeDocumentMoniker": "LabDataTypesVariablesandSimpleCalculations\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabDataTypesVariablesandSimpleCalculations\\LabDataTypesVariablesandSimpleCalculations\\Program.cs",
+              "RelativeToolTip": "LabDataTypesVariablesandSimpleCalculations\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvw0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:47:13.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

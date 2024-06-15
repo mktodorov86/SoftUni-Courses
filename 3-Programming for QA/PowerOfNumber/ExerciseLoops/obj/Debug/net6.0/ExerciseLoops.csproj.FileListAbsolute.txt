@@ -1,0 +1,4 @@
+C:\Users\mktod\QAFundamentals\PowerOfNumber\ExerciseLoops\obj\Debug\net6.0\ExerciseLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\PowerOfNumber\ExerciseLoops\obj\Debug\net6.0\ExerciseLoops.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\PowerOfNumber\ExerciseLoops\obj\Debug\net6.0\ExerciseLoops.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\PowerOfNumber\ExerciseLoops\obj\Debug\net6.0\ExerciseLoops.csproj.CoreCompileInputs.cache

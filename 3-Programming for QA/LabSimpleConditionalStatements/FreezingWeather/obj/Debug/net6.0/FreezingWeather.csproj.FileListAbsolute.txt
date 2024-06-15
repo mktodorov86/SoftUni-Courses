@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\FreezingWeather\obj\Debug\net6.0\FreezingWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\FreezingWeather\obj\Debug\net6.0\FreezingWeather.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\FreezingWeather\obj\Debug\net6.0\FreezingWeather.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\FreezingWeather\obj\Debug\net6.0\FreezingWeather.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\FreezingWeather\bin\Debug\net6.0\FreezingWeather.exe
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\FreezingWeather\bin\Debug\net6.0\FreezingWeather.deps.json
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\FreezingWeather\bin\Debug\net6.0\FreezingWeather.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\FreezingWeather\bin\Debug\net6.0\FreezingWeather.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\FreezingWeather\bin\Debug\net6.0\FreezingWeather.pdb
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\FreezingWeather\obj\Debug\net6.0\FreezingWeather.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\FreezingWeather\obj\Debug\net6.0\refint\FreezingWeather.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\FreezingWeather\obj\Debug\net6.0\FreezingWeather.pdb
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\FreezingWeather\obj\Debug\net6.0\FreezingWeather.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\FreezingWeather\obj\Debug\net6.0\ref\FreezingWeather.dll

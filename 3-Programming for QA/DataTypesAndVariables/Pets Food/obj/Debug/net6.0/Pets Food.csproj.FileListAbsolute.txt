@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\Pets Food\bin\Debug\net6.0\Pets Food.exe
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\Pets Food\bin\Debug\net6.0\Pets Food.deps.json
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\Pets Food\bin\Debug\net6.0\Pets Food.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\Pets Food\bin\Debug\net6.0\Pets Food.dll
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\Pets Food\bin\Debug\net6.0\Pets Food.pdb
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\Pets Food\obj\Debug\net6.0\Pets Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\Pets Food\obj\Debug\net6.0\Pets Food.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\Pets Food\obj\Debug\net6.0\Pets Food.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\Pets Food\obj\Debug\net6.0\Pets Food.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\Pets Food\obj\Debug\net6.0\Pets Food.dll
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\Pets Food\obj\Debug\net6.0\refint\Pets Food.dll
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\Pets Food\obj\Debug\net6.0\Pets Food.pdb
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\Pets Food\obj\Debug\net6.0\Pets Food.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\Pets Food\obj\Debug\net6.0\ref\Pets Food.dll

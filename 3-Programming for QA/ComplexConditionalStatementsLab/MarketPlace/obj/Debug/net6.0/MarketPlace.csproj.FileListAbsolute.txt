@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\MarketPlace\bin\Debug\net6.0\MarketPlace.exe
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\MarketPlace\bin\Debug\net6.0\MarketPlace.deps.json
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\MarketPlace\bin\Debug\net6.0\MarketPlace.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\MarketPlace\bin\Debug\net6.0\MarketPlace.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\MarketPlace\bin\Debug\net6.0\MarketPlace.pdb
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\MarketPlace\obj\Debug\net6.0\MarketPlace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\MarketPlace\obj\Debug\net6.0\MarketPlace.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\MarketPlace\obj\Debug\net6.0\MarketPlace.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\MarketPlace\obj\Debug\net6.0\MarketPlace.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\MarketPlace\obj\Debug\net6.0\MarketPlace.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\MarketPlace\obj\Debug\net6.0\refint\MarketPlace.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\MarketPlace\obj\Debug\net6.0\MarketPlace.pdb
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\MarketPlace\obj\Debug\net6.0\MarketPlace.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\MarketPlace\obj\Debug\net6.0\ref\MarketPlace.dll

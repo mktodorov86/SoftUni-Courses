@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E731227-3A44-453E-8382-D1ED0B1028A5}|SpeedInfo\\SpeedInfo.csproj|c:\\users\\mktod\\qafundamentals\\labsimpleconditionalstatements\\speedinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E731227-3A44-453E-8382-D1ED0B1028A5}|SpeedInfo\\SpeedInfo.csproj|solutionrelative:speedinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB084E3-3D16-4FDF-B84B-BAA6297C6CE1}|Number1\u20269asWords\\Number1\u20269asWords.csproj|c:\\users\\mktod\\qafundamentals\\labsimpleconditionalstatements\\number1\u20269aswords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB084E3-3D16-4FDF-B84B-BAA6297C6CE1}|Number1\u20269asWords\\Number1\u20269asWords.csproj|solutionrelative:number1\u20269aswords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB084E3-3D16-4FDF-B84B-BAA6297C6CE1}|Number1\u20269asWords\\Number1\u20269asWords.csproj|c:\\users\\mktod\\qafundamentals\\labsimpleconditionalstatements\\number1\u20269aswords\\number1\u20269aswords.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DB084E3-3D16-4FDF-B84B-BAA6297C6CE1}|Number1\u20269asWords\\Number1\u20269asWords.csproj|solutionrelative:number1\u20269aswords\\number1\u20269aswords.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A85800-9162-4D49-809F-7F4AE8CE74FB}|GreaterNumber\\GreaterNumber.csproj|c:\\users\\mktod\\qafundamentals\\labsimpleconditionalstatements\\greaternumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A85800-9162-4D49-809F-7F4AE8CE74FB}|GreaterNumber\\GreaterNumber.csproj|solutionrelative:greaternumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BEDC46-E5BF-44C7-887B-982AA42C5828}|GuessthePassword\\GuessthePassword.csproj|c:\\users\\mktod\\qafundamentals\\labsimpleconditionalstatements\\guessthepassword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BEDC46-E5BF-44C7-887B-982AA42C5828}|GuessthePassword\\GuessthePassword.csproj|solutionrelative:guessthepassword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BEDC46-E5BF-44C7-887B-982AA42C5828}|GuessthePassword\\GuessthePassword.csproj|c:\\users\\mktod\\qafundamentals\\labsimpleconditionalstatements\\guessthepassword\\guessthepassword.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56BEDC46-E5BF-44C7-887B-982AA42C5828}|GuessthePassword\\GuessthePassword.csproj|solutionrelative:guessthepassword\\guessthepassword.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CAE497-CE4A-438D-9299-DFAD68713324}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\mktod\\qafundamentals\\labsimpleconditionalstatements\\coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CAE497-CE4A-438D-9299-DFAD68713324}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA1BFDB-1EC4-46D9-84E3-40382FD6C5B6}|ValidTriangle\\ValidTriangle.csproj|c:\\users\\mktod\\qafundamentals\\labsimpleconditionalstatements\\validtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA1BFDB-1EC4-46D9-84E3-40382FD6C5B6}|ValidTriangle\\ValidTriangle.csproj|solutionrelative:validtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E6AED2-E150-4B77-9001-EBD0EB12B4EE}|AreaofFigures\\AreaofFigures.csproj|c:\\users\\mktod\\qafundamentals\\labsimpleconditionalstatements\\areaoffigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E6AED2-E150-4B77-9001-EBD0EB12B4EE}|AreaofFigures\\AreaofFigures.csproj|solutionrelative:areaoffigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D0F923-1D3B-46AD-A7FC-40103AB667DC}|TicketPrice\\TicketPrice.csproj|c:\\users\\mktod\\qafundamentals\\labsimpleconditionalstatements\\ticketprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D0F923-1D3B-46AD-A7FC-40103AB667DC}|TicketPrice\\TicketPrice.csproj|solutionrelative:ticketprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA2FCBC-A486-4A4F-BC64-51169DAFB616}|FreezingWeather\\FreezingWeather.csproj|c:\\users\\mktod\\qafundamentals\\labsimpleconditionalstatements\\freezingweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA2FCBC-A486-4A4F-BC64-51169DAFB616}|FreezingWeather\\FreezingWeather.csproj|solutionrelative:freezingweather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF0179D-5994-4BD5-80E3-8D9B0763ED98}|EvenorOdd\\EvenorOdd.csproj|c:\\users\\mktod\\qafundamentals\\labsimpleconditionalstatements\\evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF0179D-5994-4BD5-80E3-8D9B0763ED98}|EvenorOdd\\EvenorOdd.csproj|solutionrelative:evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90366711-0A4B-494D-9539-E31D603B3500}|BoilingWater\\BoilingWater.csproj|c:\\users\\mktod\\qafundamentals\\labsimpleconditionalstatements\\boilingwater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90366711-0A4B-494D-9539-E31D603B3500}|BoilingWater\\BoilingWater.csproj|solutionrelative:boilingwater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GuessthePassword",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\GuessthePassword\\GuessthePassword.csproj",
+              "RelativeDocumentMoniker": "GuessthePassword\\GuessthePassword.csproj",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\GuessthePassword\\GuessthePassword.csproj",
+              "RelativeToolTip": "GuessthePassword\\GuessthePassword.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T16:45:53.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\CoffeeShop\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\CoffeeShop\\Program.cs",
+              "RelativeToolTip": "CoffeeShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:04:04.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Number1\u20269asWords",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\Number1\u20269asWords\\Number1\u20269asWords.csproj",
+              "RelativeDocumentMoniker": "Number1\u20269asWords\\Number1\u20269asWords.csproj",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\Number1\u20269asWords\\Number1\u20269asWords.csproj",
+              "RelativeToolTip": "Number1\u20269asWords\\Number1\u20269asWords.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T14:22:05.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\SpeedInfo\\Program.cs",
+              "RelativeDocumentMoniker": "SpeedInfo\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\SpeedInfo\\Program.cs",
+              "RelativeToolTip": "SpeedInfo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:40:41.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\BoilingWater\\Program.cs",
+              "RelativeDocumentMoniker": "BoilingWater\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\BoilingWater\\Program.cs",
+              "RelativeToolTip": "BoilingWater\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:37:42.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\GuessthePassword\\Program.cs",
+              "RelativeDocumentMoniker": "GuessthePassword\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\GuessthePassword\\Program.cs",
+              "RelativeToolTip": "GuessthePassword\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:31:18.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\GreaterNumber\\Program.cs",
+              "RelativeDocumentMoniker": "GreaterNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\GreaterNumber\\Program.cs",
+              "RelativeToolTip": "GreaterNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:23:43.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\Number1\u20269asWords\\Program.cs",
+              "RelativeDocumentMoniker": "Number1\u20269asWords\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\Number1\u20269asWords\\Program.cs",
+              "RelativeToolTip": "Number1\u20269asWords\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:09:16.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\TicketPrice\\Program.cs",
+              "RelativeDocumentMoniker": "TicketPrice\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\TicketPrice\\Program.cs",
+              "RelativeToolTip": "TicketPrice\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:43:12.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\AreaofFigures\\Program.cs",
+              "RelativeDocumentMoniker": "AreaofFigures\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\AreaofFigures\\Program.cs",
+              "RelativeToolTip": "AreaofFigures\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:50:02.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\ValidTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "ValidTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\ValidTriangle\\Program.cs",
+              "RelativeToolTip": "ValidTriangle\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:48:19.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\EvenorOdd\\Program.cs",
+              "RelativeDocumentMoniker": "EvenorOdd\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\EvenorOdd\\Program.cs",
+              "RelativeToolTip": "EvenorOdd\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:54:00.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\FreezingWeather\\Program.cs",
+              "RelativeDocumentMoniker": "FreezingWeather\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabSimpleConditionalStatements\\FreezingWeather\\Program.cs",
+              "RelativeToolTip": "FreezingWeather\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:50:16.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

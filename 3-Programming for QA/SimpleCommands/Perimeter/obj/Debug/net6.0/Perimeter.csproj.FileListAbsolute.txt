@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\SimpleCommands\Perimeter\bin\Debug\net6.0\Perimeter.exe
+C:\Users\mktod\QAFundamentals\SimpleCommands\Perimeter\bin\Debug\net6.0\Perimeter.deps.json
+C:\Users\mktod\QAFundamentals\SimpleCommands\Perimeter\bin\Debug\net6.0\Perimeter.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\SimpleCommands\Perimeter\bin\Debug\net6.0\Perimeter.dll
+C:\Users\mktod\QAFundamentals\SimpleCommands\Perimeter\bin\Debug\net6.0\Perimeter.pdb
+C:\Users\mktod\QAFundamentals\SimpleCommands\Perimeter\obj\Debug\net6.0\Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\SimpleCommands\Perimeter\obj\Debug\net6.0\Perimeter.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\SimpleCommands\Perimeter\obj\Debug\net6.0\Perimeter.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\SimpleCommands\Perimeter\obj\Debug\net6.0\Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\SimpleCommands\Perimeter\obj\Debug\net6.0\Perimeter.dll
+C:\Users\mktod\QAFundamentals\SimpleCommands\Perimeter\obj\Debug\net6.0\refint\Perimeter.dll
+C:\Users\mktod\QAFundamentals\SimpleCommands\Perimeter\obj\Debug\net6.0\Perimeter.pdb
+C:\Users\mktod\QAFundamentals\SimpleCommands\Perimeter\obj\Debug\net6.0\Perimeter.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\SimpleCommands\Perimeter\obj\Debug\net6.0\ref\Perimeter.dll

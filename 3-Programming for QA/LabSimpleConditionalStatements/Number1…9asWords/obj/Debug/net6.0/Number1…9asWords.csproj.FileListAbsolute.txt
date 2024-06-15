@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\Number1…9asWords\obj\Debug\net6.0\Number1…9asWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\Number1…9asWords\obj\Debug\net6.0\Number1…9asWords.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\Number1…9asWords\obj\Debug\net6.0\Number1…9asWords.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\Number1…9asWords\obj\Debug\net6.0\Number1…9asWords.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\Number1…9asWords\bin\Debug\net6.0\Number1…9asWords.exe
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\Number1…9asWords\bin\Debug\net6.0\Number1…9asWords.deps.json
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\Number1…9asWords\bin\Debug\net6.0\Number1…9asWords.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\Number1…9asWords\bin\Debug\net6.0\Number1…9asWords.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\Number1…9asWords\bin\Debug\net6.0\Number1…9asWords.pdb
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\Number1…9asWords\obj\Debug\net6.0\Number1…9asWords.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\Number1…9asWords\obj\Debug\net6.0\refint\Number1…9asWords.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\Number1…9asWords\obj\Debug\net6.0\Number1…9asWords.pdb
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\Number1…9asWords\obj\Debug\net6.0\Number1…9asWords.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\Number1…9asWords\obj\Debug\net6.0\ref\Number1…9asWords.dll

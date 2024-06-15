@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\NumberProcessor\bin\Debug\net6.0\NumberProcessor.exe
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\NumberProcessor\bin\Debug\net6.0\NumberProcessor.deps.json
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\NumberProcessor\bin\Debug\net6.0\NumberProcessor.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\NumberProcessor\bin\Debug\net6.0\NumberProcessor.dll
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\NumberProcessor\bin\Debug\net6.0\NumberProcessor.pdb
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\NumberProcessor\obj\Debug\net6.0\NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\NumberProcessor\obj\Debug\net6.0\NumberProcessor.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\NumberProcessor\obj\Debug\net6.0\NumberProcessor.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\NumberProcessor\obj\Debug\net6.0\NumberProcessor.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\NumberProcessor\obj\Debug\net6.0\NumberProcessor.dll
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\NumberProcessor\obj\Debug\net6.0\refint\NumberProcessor.dll
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\NumberProcessor\obj\Debug\net6.0\NumberProcessor.pdb
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\NumberProcessor\obj\Debug\net6.0\NumberProcessor.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\NumberProcessor\obj\Debug\net6.0\ref\NumberProcessor.dll

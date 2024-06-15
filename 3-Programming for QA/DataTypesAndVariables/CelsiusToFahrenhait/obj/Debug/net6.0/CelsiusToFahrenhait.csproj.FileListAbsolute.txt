@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\CelsiusToFahrenhait\obj\Debug\net6.0\CelsiusToFahrenhait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\CelsiusToFahrenhait\obj\Debug\net6.0\CelsiusToFahrenhait.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\CelsiusToFahrenhait\obj\Debug\net6.0\CelsiusToFahrenhait.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\CelsiusToFahrenhait\obj\Debug\net6.0\CelsiusToFahrenhait.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\CelsiusToFahrenhait\bin\Debug\net6.0\CelsiusToFahrenhait.exe
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\CelsiusToFahrenhait\bin\Debug\net6.0\CelsiusToFahrenhait.deps.json
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\CelsiusToFahrenhait\bin\Debug\net6.0\CelsiusToFahrenhait.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\CelsiusToFahrenhait\bin\Debug\net6.0\CelsiusToFahrenhait.dll
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\CelsiusToFahrenhait\bin\Debug\net6.0\CelsiusToFahrenhait.pdb
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\CelsiusToFahrenhait\obj\Debug\net6.0\CelsiusToFahrenhait.dll
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\CelsiusToFahrenhait\obj\Debug\net6.0\refint\CelsiusToFahrenhait.dll
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\CelsiusToFahrenhait\obj\Debug\net6.0\CelsiusToFahrenhait.pdb
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\CelsiusToFahrenhait\obj\Debug\net6.0\CelsiusToFahrenhait.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\CelsiusToFahrenhait\obj\Debug\net6.0\ref\CelsiusToFahrenhait.dll

@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.exe
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.deps.json
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\CoffeeShop\bin\Debug\net6.0\CoffeeShop.pdb
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\CoffeeShop\obj\Debug\net6.0\refint\CoffeeShop.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.pdb
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\CoffeeShop\obj\Debug\net6.0\ref\CoffeeShop.dll

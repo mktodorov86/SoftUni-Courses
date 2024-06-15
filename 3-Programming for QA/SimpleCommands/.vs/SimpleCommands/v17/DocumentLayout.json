@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA79853-D9FD-48DE-81BE-C1B0D1209724}|inch 2\\inch 2.csproj|c:\\users\\mktod\\qafundamentals\\simplecommands\\inch 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA79853-D9FD-48DE-81BE-C1B0D1209724}|inch 2\\inch 2.csproj|solutionrelative:inch 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88F1856-8D0B-414D-ACA4-F3CB1E412F95}|inch\\inch.csproj|c:\\users\\mktod\\qafundamentals\\simplecommands\\inch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88F1856-8D0B-414D-ACA4-F3CB1E412F95}|inch\\inch.csproj|solutionrelative:inch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EC023B-7FDA-4E3C-B685-C620A6AF0D88}|Perimeter\\Perimeter.csproj|c:\\users\\mktod\\qafundamentals\\simplecommands\\perimeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EC023B-7FDA-4E3C-B685-C620A6AF0D88}|Perimeter\\Perimeter.csproj|solutionrelative:perimeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C9D47E-2E81-4EE5-A524-DBAF3AD2CA34}|trapezoid1\\trapezoid1.csproj|c:\\users\\mktod\\qafundamentals\\simplecommands\\trapezoid1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C9D47E-2E81-4EE5-A524-DBAF3AD2CA34}|trapezoid1\\trapezoid1.csproj|solutionrelative:trapezoid1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48E1803-74A4-4EEA-B4BA-FD04E288A769}|square\\square.csproj|c:\\users\\mktod\\qafundamentals\\simplecommands\\square\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48E1803-74A4-4EEA-B4BA-FD04E288A769}|square\\square.csproj|solutionrelative:square\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446D899A-7C17-4706-8076-C058723B467F}|TextReading\\TextReading.csproj|c:\\users\\mktod\\qafundamentals\\simplecommands\\textreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446D899A-7C17-4706-8076-C058723B467F}|TextReading\\TextReading.csproj|solutionrelative:textreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EF9951-83E3-45E3-8316-01D58FBCE438}|trapezoid\\rectangle.csproj|c:\\users\\mktod\\qafundamentals\\simplecommands\\trapezoid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EF9951-83E3-45E3-8316-01D58FBCE438}|trapezoid\\rectangle.csproj|solutionrelative:trapezoid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\inch 2\\Program.cs",
+              "RelativeDocumentMoniker": "inch 2\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\inch 2\\Program.cs",
+              "RelativeToolTip": "inch 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:13:35.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\inch\\Program.cs",
+              "RelativeDocumentMoniker": "inch\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\inch\\Program.cs",
+              "RelativeToolTip": "inch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:49:51.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\Perimeter\\Program.cs",
+              "RelativeDocumentMoniker": "Perimeter\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\Perimeter\\Program.cs",
+              "RelativeToolTip": "Perimeter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:46:39.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\trapezoid1\\Program.cs",
+              "RelativeDocumentMoniker": "trapezoid1\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\trapezoid1\\Program.cs",
+              "RelativeToolTip": "trapezoid1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:41:09.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\trapezoid\\Program.cs",
+              "RelativeDocumentMoniker": "trapezoid\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\trapezoid\\Program.cs",
+              "RelativeToolTip": "trapezoid\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:27:30.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\square\\Program.cs",
+              "RelativeDocumentMoniker": "square\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\square\\Program.cs",
+              "RelativeToolTip": "square\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:18:11.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\TextReading\\Program.cs",
+              "RelativeDocumentMoniker": "TextReading\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\SimpleCommands\\TextReading\\Program.cs",
+              "RelativeToolTip": "TextReading\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:49:25.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

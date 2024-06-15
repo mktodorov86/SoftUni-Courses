@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.exe
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.deps.json
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.dll
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.pdb
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.dll
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\refint\ProjectsCreation.dll
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.pdb
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ref\ProjectsCreation.dll

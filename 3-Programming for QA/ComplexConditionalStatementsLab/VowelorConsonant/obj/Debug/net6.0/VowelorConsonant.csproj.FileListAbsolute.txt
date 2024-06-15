@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\VowelorConsonant\bin\Debug\net6.0\VowelorConsonant.exe
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\VowelorConsonant\bin\Debug\net6.0\VowelorConsonant.deps.json
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\VowelorConsonant\bin\Debug\net6.0\VowelorConsonant.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\VowelorConsonant\bin\Debug\net6.0\VowelorConsonant.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\VowelorConsonant\bin\Debug\net6.0\VowelorConsonant.pdb
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\VowelorConsonant\obj\Debug\net6.0\VowelorConsonant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\VowelorConsonant\obj\Debug\net6.0\VowelorConsonant.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\VowelorConsonant\obj\Debug\net6.0\VowelorConsonant.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\VowelorConsonant\obj\Debug\net6.0\VowelorConsonant.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\VowelorConsonant\obj\Debug\net6.0\VowelorConsonant.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\VowelorConsonant\obj\Debug\net6.0\refint\VowelorConsonant.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\VowelorConsonant\obj\Debug\net6.0\VowelorConsonant.pdb
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\VowelorConsonant\obj\Debug\net6.0\VowelorConsonant.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\VowelorConsonant\obj\Debug\net6.0\ref\VowelorConsonant.dll

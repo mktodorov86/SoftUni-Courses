@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\DataVariables\CalculateSpeed\bin\Debug\net6.0\CalculateSpeed.exe
+C:\Users\mktod\QAFundamentals\DataVariables\CalculateSpeed\bin\Debug\net6.0\CalculateSpeed.deps.json
+C:\Users\mktod\QAFundamentals\DataVariables\CalculateSpeed\bin\Debug\net6.0\CalculateSpeed.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\DataVariables\CalculateSpeed\bin\Debug\net6.0\CalculateSpeed.dll
+C:\Users\mktod\QAFundamentals\DataVariables\CalculateSpeed\bin\Debug\net6.0\CalculateSpeed.pdb
+C:\Users\mktod\QAFundamentals\DataVariables\CalculateSpeed\obj\Debug\net6.0\CalculateSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\DataVariables\CalculateSpeed\obj\Debug\net6.0\CalculateSpeed.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\DataVariables\CalculateSpeed\obj\Debug\net6.0\CalculateSpeed.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\DataVariables\CalculateSpeed\obj\Debug\net6.0\CalculateSpeed.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\DataVariables\CalculateSpeed\obj\Debug\net6.0\CalculateSpeed.dll
+C:\Users\mktod\QAFundamentals\DataVariables\CalculateSpeed\obj\Debug\net6.0\refint\CalculateSpeed.dll
+C:\Users\mktod\QAFundamentals\DataVariables\CalculateSpeed\obj\Debug\net6.0\CalculateSpeed.pdb
+C:\Users\mktod\QAFundamentals\DataVariables\CalculateSpeed\obj\Debug\net6.0\CalculateSpeed.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\DataVariables\CalculateSpeed\obj\Debug\net6.0\ref\CalculateSpeed.dll

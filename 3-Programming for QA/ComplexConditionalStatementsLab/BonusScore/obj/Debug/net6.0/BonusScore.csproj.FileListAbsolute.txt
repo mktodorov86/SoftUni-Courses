@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\BonusScore\obj\Debug\net6.0\BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\BonusScore\obj\Debug\net6.0\BonusScore.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\BonusScore\obj\Debug\net6.0\BonusScore.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\BonusScore\obj\Debug\net6.0\BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\BonusScore\bin\Debug\net6.0\BonusScore.exe
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\BonusScore\bin\Debug\net6.0\BonusScore.deps.json
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\BonusScore\bin\Debug\net6.0\BonusScore.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\BonusScore\bin\Debug\net6.0\BonusScore.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\BonusScore\bin\Debug\net6.0\BonusScore.pdb
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\BonusScore\obj\Debug\net6.0\BonusScore.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\BonusScore\obj\Debug\net6.0\refint\BonusScore.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\BonusScore\obj\Debug\net6.0\BonusScore.pdb
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\BonusScore\obj\Debug\net6.0\BonusScore.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\BonusScore\obj\Debug\net6.0\ref\BonusScore.dll

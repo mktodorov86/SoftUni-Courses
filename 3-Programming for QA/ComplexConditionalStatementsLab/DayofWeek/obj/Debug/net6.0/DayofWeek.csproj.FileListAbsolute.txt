@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\DayofWeek\bin\Debug\net6.0\DayofWeek.exe
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\DayofWeek\bin\Debug\net6.0\DayofWeek.deps.json
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\DayofWeek\bin\Debug\net6.0\DayofWeek.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\DayofWeek\bin\Debug\net6.0\DayofWeek.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\DayofWeek\bin\Debug\net6.0\DayofWeek.pdb
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\DayofWeek\obj\Debug\net6.0\DayofWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\DayofWeek\obj\Debug\net6.0\DayofWeek.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\DayofWeek\obj\Debug\net6.0\DayofWeek.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\DayofWeek\obj\Debug\net6.0\DayofWeek.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\DayofWeek\obj\Debug\net6.0\DayofWeek.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\DayofWeek\obj\Debug\net6.0\refint\DayofWeek.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\DayofWeek\obj\Debug\net6.0\DayofWeek.pdb
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\DayofWeek\obj\Debug\net6.0\DayofWeek.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\DayofWeek\obj\Debug\net6.0\ref\DayofWeek.dll

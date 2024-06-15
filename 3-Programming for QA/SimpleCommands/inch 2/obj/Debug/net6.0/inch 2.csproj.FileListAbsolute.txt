@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\SimpleCommands\inch 2\bin\Debug\net6.0\inch 2.exe
+C:\Users\mktod\QAFundamentals\SimpleCommands\inch 2\bin\Debug\net6.0\inch 2.deps.json
+C:\Users\mktod\QAFundamentals\SimpleCommands\inch 2\bin\Debug\net6.0\inch 2.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\SimpleCommands\inch 2\bin\Debug\net6.0\inch 2.dll
+C:\Users\mktod\QAFundamentals\SimpleCommands\inch 2\bin\Debug\net6.0\inch 2.pdb
+C:\Users\mktod\QAFundamentals\SimpleCommands\inch 2\obj\Debug\net6.0\inch 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\SimpleCommands\inch 2\obj\Debug\net6.0\inch 2.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\SimpleCommands\inch 2\obj\Debug\net6.0\inch 2.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\SimpleCommands\inch 2\obj\Debug\net6.0\inch 2.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\SimpleCommands\inch 2\obj\Debug\net6.0\inch 2.dll
+C:\Users\mktod\QAFundamentals\SimpleCommands\inch 2\obj\Debug\net6.0\refint\inch 2.dll
+C:\Users\mktod\QAFundamentals\SimpleCommands\inch 2\obj\Debug\net6.0\inch 2.pdb
+C:\Users\mktod\QAFundamentals\SimpleCommands\inch 2\obj\Debug\net6.0\inch 2.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\SimpleCommands\inch 2\obj\Debug\net6.0\ref\inch 2.dll

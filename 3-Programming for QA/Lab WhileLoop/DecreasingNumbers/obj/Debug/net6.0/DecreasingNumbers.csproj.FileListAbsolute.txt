@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\DecreasingNumbers\bin\Debug\net6.0\DecreasingNumbers.exe
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\DecreasingNumbers\bin\Debug\net6.0\DecreasingNumbers.deps.json
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\DecreasingNumbers\bin\Debug\net6.0\DecreasingNumbers.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\DecreasingNumbers\bin\Debug\net6.0\DecreasingNumbers.dll
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\DecreasingNumbers\bin\Debug\net6.0\DecreasingNumbers.pdb
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.dll
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\DecreasingNumbers\obj\Debug\net6.0\refint\DecreasingNumbers.dll
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.pdb
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\DecreasingNumbers\obj\Debug\net6.0\DecreasingNumbers.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\Lab WhileLoop\DecreasingNumbers\obj\Debug\net6.0\ref\DecreasingNumbers.dll

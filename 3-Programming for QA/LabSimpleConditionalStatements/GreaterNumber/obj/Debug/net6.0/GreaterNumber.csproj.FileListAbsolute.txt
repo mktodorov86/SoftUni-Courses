@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.exe
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.deps.json
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\GreaterNumber\bin\Debug\net6.0\GreaterNumber.pdb
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\refint\GreaterNumber.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.pdb
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\GreaterNumber.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\GreaterNumber\obj\Debug\net6.0\ref\GreaterNumber.dll

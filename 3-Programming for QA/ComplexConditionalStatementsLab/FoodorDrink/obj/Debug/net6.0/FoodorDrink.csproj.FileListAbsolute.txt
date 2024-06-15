@@ -1,0 +1,4 @@
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\FoodorDrink\obj\Debug\net6.0\FoodorDrink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\FoodorDrink\obj\Debug\net6.0\FoodorDrink.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\FoodorDrink\obj\Debug\net6.0\FoodorDrink.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\FoodorDrink\obj\Debug\net6.0\FoodorDrink.csproj.CoreCompileInputs.cache

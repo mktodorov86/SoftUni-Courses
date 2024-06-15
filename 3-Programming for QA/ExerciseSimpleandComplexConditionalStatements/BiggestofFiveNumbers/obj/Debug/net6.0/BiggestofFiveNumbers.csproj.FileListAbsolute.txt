@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\BiggestofFiveNumbers\bin\Debug\net6.0\BiggestofFiveNumbers.exe
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\BiggestofFiveNumbers\bin\Debug\net6.0\BiggestofFiveNumbers.deps.json
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\BiggestofFiveNumbers\bin\Debug\net6.0\BiggestofFiveNumbers.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\BiggestofFiveNumbers\bin\Debug\net6.0\BiggestofFiveNumbers.dll
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\BiggestofFiveNumbers\bin\Debug\net6.0\BiggestofFiveNumbers.pdb
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\BiggestofFiveNumbers\obj\Debug\net6.0\BiggestofFiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\BiggestofFiveNumbers\obj\Debug\net6.0\BiggestofFiveNumbers.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\BiggestofFiveNumbers\obj\Debug\net6.0\BiggestofFiveNumbers.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\BiggestofFiveNumbers\obj\Debug\net6.0\BiggestofFiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\BiggestofFiveNumbers\obj\Debug\net6.0\BiggestofFiveNumbers.dll
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\BiggestofFiveNumbers\obj\Debug\net6.0\refint\BiggestofFiveNumbers.dll
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\BiggestofFiveNumbers\obj\Debug\net6.0\BiggestofFiveNumbers.pdb
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\BiggestofFiveNumbers\obj\Debug\net6.0\BiggestofFiveNumbers.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\BiggestofFiveNumbers\obj\Debug\net6.0\ref\BiggestofFiveNumbers.dll

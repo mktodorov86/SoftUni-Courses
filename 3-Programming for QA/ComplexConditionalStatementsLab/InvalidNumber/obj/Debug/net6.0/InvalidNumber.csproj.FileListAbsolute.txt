@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\InvalidNumber\obj\Debug\net6.0\InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\InvalidNumber\obj\Debug\net6.0\InvalidNumber.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\InvalidNumber\obj\Debug\net6.0\InvalidNumber.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\InvalidNumber\obj\Debug\net6.0\InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\InvalidNumber\bin\Debug\net6.0\InvalidNumber.exe
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\InvalidNumber\bin\Debug\net6.0\InvalidNumber.deps.json
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\InvalidNumber\bin\Debug\net6.0\InvalidNumber.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\InvalidNumber\bin\Debug\net6.0\InvalidNumber.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\InvalidNumber\bin\Debug\net6.0\InvalidNumber.pdb
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\InvalidNumber\obj\Debug\net6.0\InvalidNumber.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\InvalidNumber\obj\Debug\net6.0\refint\InvalidNumber.dll
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\InvalidNumber\obj\Debug\net6.0\InvalidNumber.pdb
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\InvalidNumber\obj\Debug\net6.0\InvalidNumber.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\ComplexConditionalStatementsLab\InvalidNumber\obj\Debug\net6.0\ref\InvalidNumber.dll

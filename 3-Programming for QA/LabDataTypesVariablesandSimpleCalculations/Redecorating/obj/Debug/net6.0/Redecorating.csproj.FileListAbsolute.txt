@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\Redecorating\obj\Debug\net6.0\Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\Redecorating\obj\Debug\net6.0\Redecorating.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\Redecorating\obj\Debug\net6.0\Redecorating.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\Redecorating\obj\Debug\net6.0\Redecorating.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\Redecorating\bin\Debug\net6.0\Redecorating.exe
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\Redecorating\bin\Debug\net6.0\Redecorating.deps.json
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\Redecorating\bin\Debug\net6.0\Redecorating.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\Redecorating\bin\Debug\net6.0\Redecorating.dll
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\Redecorating\bin\Debug\net6.0\Redecorating.pdb
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\Redecorating\obj\Debug\net6.0\Redecorating.dll
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\Redecorating\obj\Debug\net6.0\refint\Redecorating.dll
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\Redecorating\obj\Debug\net6.0\Redecorating.pdb
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\Redecorating\obj\Debug\net6.0\Redecorating.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\Redecorating\obj\Debug\net6.0\ref\Redecorating.dll

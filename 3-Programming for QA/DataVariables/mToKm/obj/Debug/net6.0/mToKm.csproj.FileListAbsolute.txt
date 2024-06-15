@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\DataVariables\mToKm\bin\Debug\net6.0\mToKm.exe
+C:\Users\mktod\QAFundamentals\DataVariables\mToKm\bin\Debug\net6.0\mToKm.deps.json
+C:\Users\mktod\QAFundamentals\DataVariables\mToKm\bin\Debug\net6.0\mToKm.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\DataVariables\mToKm\bin\Debug\net6.0\mToKm.dll
+C:\Users\mktod\QAFundamentals\DataVariables\mToKm\bin\Debug\net6.0\mToKm.pdb
+C:\Users\mktod\QAFundamentals\DataVariables\mToKm\obj\Debug\net6.0\mToKm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\DataVariables\mToKm\obj\Debug\net6.0\mToKm.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\DataVariables\mToKm\obj\Debug\net6.0\mToKm.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\DataVariables\mToKm\obj\Debug\net6.0\mToKm.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\DataVariables\mToKm\obj\Debug\net6.0\mToKm.dll
+C:\Users\mktod\QAFundamentals\DataVariables\mToKm\obj\Debug\net6.0\refint\mToKm.dll
+C:\Users\mktod\QAFundamentals\DataVariables\mToKm\obj\Debug\net6.0\mToKm.pdb
+C:\Users\mktod\QAFundamentals\DataVariables\mToKm\obj\Debug\net6.0\mToKm.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\DataVariables\mToKm\obj\Debug\net6.0\ref\mToKm.dll

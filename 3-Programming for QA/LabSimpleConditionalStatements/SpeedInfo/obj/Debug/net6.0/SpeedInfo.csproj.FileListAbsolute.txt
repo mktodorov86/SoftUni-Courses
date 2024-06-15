@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\SpeedInfo\bin\Debug\net6.0\SpeedInfo.exe
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\SpeedInfo\bin\Debug\net6.0\SpeedInfo.deps.json
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\SpeedInfo\bin\Debug\net6.0\SpeedInfo.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\SpeedInfo\bin\Debug\net6.0\SpeedInfo.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\SpeedInfo\bin\Debug\net6.0\SpeedInfo.pdb
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\SpeedInfo\obj\Debug\net6.0\SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\SpeedInfo\obj\Debug\net6.0\SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\SpeedInfo\obj\Debug\net6.0\SpeedInfo.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\SpeedInfo\obj\Debug\net6.0\SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\SpeedInfo\obj\Debug\net6.0\SpeedInfo.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\SpeedInfo\obj\Debug\net6.0\refint\SpeedInfo.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\SpeedInfo\obj\Debug\net6.0\SpeedInfo.pdb
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\SpeedInfo\obj\Debug\net6.0\SpeedInfo.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\SpeedInfo\obj\Debug\net6.0\ref\SpeedInfo.dll

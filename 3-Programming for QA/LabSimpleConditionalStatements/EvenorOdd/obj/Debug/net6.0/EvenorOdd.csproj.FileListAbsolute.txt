@@ -1,0 +1,4 @@
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\EvenorOdd\obj\Debug\net6.0\EvenorOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\EvenorOdd\obj\Debug\net6.0\EvenorOdd.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\EvenorOdd\obj\Debug\net6.0\EvenorOdd.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\EvenorOdd\obj\Debug\net6.0\EvenorOdd.csproj.CoreCompileInputs.cache

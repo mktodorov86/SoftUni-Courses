@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\AreaofFigures\bin\Debug\net6.0\AreaofFigures.exe
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\AreaofFigures\bin\Debug\net6.0\AreaofFigures.deps.json
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\AreaofFigures\bin\Debug\net6.0\AreaofFigures.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\AreaofFigures\bin\Debug\net6.0\AreaofFigures.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\AreaofFigures\bin\Debug\net6.0\AreaofFigures.pdb
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\AreaofFigures\obj\Debug\net6.0\AreaofFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\AreaofFigures\obj\Debug\net6.0\AreaofFigures.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\AreaofFigures\obj\Debug\net6.0\AreaofFigures.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\AreaofFigures\obj\Debug\net6.0\AreaofFigures.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\AreaofFigures\obj\Debug\net6.0\AreaofFigures.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\AreaofFigures\obj\Debug\net6.0\refint\AreaofFigures.dll
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\AreaofFigures\obj\Debug\net6.0\AreaofFigures.pdb
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\AreaofFigures\obj\Debug\net6.0\AreaofFigures.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\LabSimpleConditionalStatements\AreaofFigures\obj\Debug\net6.0\ref\AreaofFigures.dll

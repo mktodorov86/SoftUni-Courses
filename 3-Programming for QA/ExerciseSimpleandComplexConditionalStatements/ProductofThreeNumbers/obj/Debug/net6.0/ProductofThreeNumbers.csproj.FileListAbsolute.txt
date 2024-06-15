@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\ProductofThreeNumbers\bin\Debug\net6.0\ProductofThreeNumbers.exe
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\ProductofThreeNumbers\bin\Debug\net6.0\ProductofThreeNumbers.deps.json
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\ProductofThreeNumbers\bin\Debug\net6.0\ProductofThreeNumbers.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\ProductofThreeNumbers\bin\Debug\net6.0\ProductofThreeNumbers.dll
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\ProductofThreeNumbers\bin\Debug\net6.0\ProductofThreeNumbers.pdb
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\ProductofThreeNumbers\obj\Debug\net6.0\ProductofThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\ProductofThreeNumbers\obj\Debug\net6.0\ProductofThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\ProductofThreeNumbers\obj\Debug\net6.0\ProductofThreeNumbers.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\ProductofThreeNumbers\obj\Debug\net6.0\ProductofThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\ProductofThreeNumbers\obj\Debug\net6.0\ProductofThreeNumbers.dll
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\ProductofThreeNumbers\obj\Debug\net6.0\refint\ProductofThreeNumbers.dll
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\ProductofThreeNumbers\obj\Debug\net6.0\ProductofThreeNumbers.pdb
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\ProductofThreeNumbers\obj\Debug\net6.0\ProductofThreeNumbers.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\ExerciseSimpleandComplexConditionalStatements\ProductofThreeNumbers\obj\Debug\net6.0\ref\ProductofThreeNumbers.dll

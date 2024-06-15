@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE1E4D2-2983-4387-AE79-52019C48684E}|LatinLetters\\LatinLetters.csproj|c:\\users\\mktod\\qafundamentals\\labforloop\\latinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE1E4D2-2983-4387-AE79-52019C48684E}|LatinLetters\\LatinLetters.csproj|solutionrelative:latinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423D2E83-9B4F-4B9D-A833-029668D61D34}|ExamCountdown\\ExamCountdown.csproj|c:\\users\\mktod\\qafundamentals\\labforloop\\examcountdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423D2E83-9B4F-4B9D-A833-029668D61D34}|ExamCountdown\\ExamCountdown.csproj|solutionrelative:examcountdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F81899-808A-4B0D-BD74-8EA5BC2B5182}|NumbersFrom1toNover3\\NumbersFrom1toNover3.csproj|c:\\users\\mktod\\qafundamentals\\labforloop\\numbersfrom1tonover3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F81899-808A-4B0D-BD74-8EA5BC2B5182}|NumbersFrom1toNover3\\NumbersFrom1toNover3.csproj|solutionrelative:numbersfrom1tonover3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760274AA-DC77-432E-9978-2518E9BEB769}|NumbersEndingin7\\NumbersEndingin7.csproj|c:\\users\\mktod\\qafundamentals\\labforloop\\numbersendingin7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760274AA-DC77-432E-9978-2518E9BEB769}|NumbersEndingin7\\NumbersEndingin7.csproj|solutionrelative:numbersendingin7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870929A4-16D2-442E-A644-5597C28F3D5B}|NumbersinRange\\NumbersinRange.csproj|c:\\users\\mktod\\qafundamentals\\labforloop\\numbersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870929A4-16D2-442E-A644-5597C28F3D5B}|NumbersinRange\\NumbersinRange.csproj|solutionrelative:numbersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22EEF8-5759-4F26-AF42-2CB48A1E48D0}|FirstNNumbersSum\\FirstNNumbersSum.csproj|c:\\users\\mktod\\qafundamentals\\labforloop\\firstnnumberssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22EEF8-5759-4F26-AF42-2CB48A1E48D0}|FirstNNumbersSum\\FirstNNumbersSum.csproj|solutionrelative:firstnnumberssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D29759-D334-4CCF-B608-018BCA4E7F4D}|SumNumbers\\SumNumbers.csproj|c:\\users\\mktod\\qafundamentals\\labforloop\\sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D29759-D334-4CCF-B608-018BCA4E7F4D}|SumNumbers\\SumNumbers.csproj|solutionrelative:sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\LatinLetters\\Program.cs",
+              "RelativeDocumentMoniker": "LatinLetters\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\LatinLetters\\Program.cs",
+              "RelativeToolTip": "LatinLetters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:37:07.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\ExamCountdown\\Program.cs",
+              "RelativeDocumentMoniker": "ExamCountdown\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\ExamCountdown\\Program.cs",
+              "RelativeToolTip": "ExamCountdown\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:25:12.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\NumbersFrom1toNover3\\Program.cs",
+              "RelativeDocumentMoniker": "NumbersFrom1toNover3\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\NumbersFrom1toNover3\\Program.cs",
+              "RelativeToolTip": "NumbersFrom1toNover3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:16:52.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\NumbersEndingin7\\Program.cs",
+              "RelativeDocumentMoniker": "NumbersEndingin7\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\NumbersEndingin7\\Program.cs",
+              "RelativeToolTip": "NumbersEndingin7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:39:28.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\SumNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SumNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\SumNumbers\\Program.cs",
+              "RelativeToolTip": "SumNumbers\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:24:59.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\FirstNNumbersSum\\Program.cs",
+              "RelativeDocumentMoniker": "FirstNNumbersSum\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\FirstNNumbersSum\\Program.cs",
+              "RelativeToolTip": "FirstNNumbersSum\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:09:28.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\NumbersinRange\\Program.cs",
+              "RelativeDocumentMoniker": "NumbersinRange\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\LabForLoop\\NumbersinRange\\Program.cs",
+              "RelativeToolTip": "NumbersinRange\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:01:39.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

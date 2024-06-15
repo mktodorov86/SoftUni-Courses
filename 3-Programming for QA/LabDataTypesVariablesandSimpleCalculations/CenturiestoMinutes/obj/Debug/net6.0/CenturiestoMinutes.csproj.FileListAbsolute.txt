@@ -1,0 +1,4 @@
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\CenturiestoMinutes\obj\Debug\net6.0\CenturiestoMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\CenturiestoMinutes\obj\Debug\net6.0\CenturiestoMinutes.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\CenturiestoMinutes\obj\Debug\net6.0\CenturiestoMinutes.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\LabDataTypesVariablesandSimpleCalculations\CenturiestoMinutes\obj\Debug\net6.0\CenturiestoMinutes.csproj.CoreCompileInputs.cache

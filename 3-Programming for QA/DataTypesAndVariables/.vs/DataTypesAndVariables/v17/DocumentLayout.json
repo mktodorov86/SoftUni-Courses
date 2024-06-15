@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\QAFundamentals\\DataTypesAndVariables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAF51FA-509B-4FA1-AB97-991FADB4606E}|ProjectsCreation\\ProjectsCreation.csproj|c:\\users\\mktod\\qafundamentals\\datatypesandvariables\\projectscreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAF51FA-509B-4FA1-AB97-991FADB4606E}|ProjectsCreation\\ProjectsCreation.csproj|solutionrelative:projectscreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAF51FA-509B-4FA1-AB97-991FADB4606E}|ProjectsCreation\\ProjectsCreation.csproj|c:\\users\\mktod\\qafundamentals\\datatypesandvariables\\projectscreation\\projectscreation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCAF51FA-509B-4FA1-AB97-991FADB4606E}|ProjectsCreation\\ProjectsCreation.csproj|solutionrelative:projectscreation\\projectscreation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CD159A-9202-4DD3-A552-8A23CC4EA5F8}|Pets Food\\Pets Food.csproj|c:\\users\\mktod\\qafundamentals\\datatypesandvariables\\pets food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CD159A-9202-4DD3-A552-8A23CC4EA5F8}|Pets Food\\Pets Food.csproj|solutionrelative:pets food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CD159A-9202-4DD3-A552-8A23CC4EA5F8}|Pets Food\\Pets Food.csproj|c:\\users\\mktod\\qafundamentals\\datatypesandvariables\\pets food\\pets food.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78CD159A-9202-4DD3-A552-8A23CC4EA5F8}|Pets Food\\Pets Food.csproj|solutionrelative:pets food\\pets food.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771C056-9ACD-4631-ACE3-1823D76069C4}|CelsiusToFahrenhait\\CelsiusToFahrenhait.csproj|c:\\users\\mktod\\qafundamentals\\datatypesandvariables\\celsiustofahrenhait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E771C056-9ACD-4631-ACE3-1823D76069C4}|CelsiusToFahrenhait\\CelsiusToFahrenhait.csproj|solutionrelative:celsiustofahrenhait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E771C056-9ACD-4631-ACE3-1823D76069C4}|CelsiusToFahrenhait\\CelsiusToFahrenhait.csproj|c:\\users\\mktod\\qafundamentals\\datatypesandvariables\\celsiustofahrenhait\\celsiustofahrenhait.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E771C056-9ACD-4631-ACE3-1823D76069C4}|CelsiusToFahrenhait\\CelsiusToFahrenhait.csproj|solutionrelative:celsiustofahrenhait\\celsiustofahrenhait.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectsCreation",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\DataTypesAndVariables\\ProjectsCreation\\ProjectsCreation.csproj",
+              "RelativeDocumentMoniker": "ProjectsCreation\\ProjectsCreation.csproj",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\DataTypesAndVariables\\ProjectsCreation\\ProjectsCreation.csproj",
+              "RelativeToolTip": "ProjectsCreation\\ProjectsCreation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T18:52:23.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\DataTypesAndVariables\\ProjectsCreation\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectsCreation\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\DataTypesAndVariables\\ProjectsCreation\\Program.cs",
+              "RelativeToolTip": "ProjectsCreation\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAMzMzMzPzvxYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:52:18.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pets Food",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\DataTypesAndVariables\\Pets Food\\Pets Food.csproj",
+              "RelativeDocumentMoniker": "Pets Food\\Pets Food.csproj",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\DataTypesAndVariables\\Pets Food\\Pets Food.csproj",
+              "RelativeToolTip": "Pets Food\\Pets Food.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T18:18:27.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\DataTypesAndVariables\\Pets Food\\Program.cs",
+              "RelativeDocumentMoniker": "Pets Food\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\DataTypesAndVariables\\Pets Food\\Program.cs",
+              "RelativeToolTip": "Pets Food\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:18:18.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CelsiusToFahrenhait",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\DataTypesAndVariables\\CelsiusToFahrenhait\\CelsiusToFahrenhait.csproj",
+              "RelativeDocumentMoniker": "CelsiusToFahrenhait\\CelsiusToFahrenhait.csproj",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\DataTypesAndVariables\\CelsiusToFahrenhait\\CelsiusToFahrenhait.csproj",
+              "RelativeToolTip": "CelsiusToFahrenhait\\CelsiusToFahrenhait.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T18:04:17.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\DataTypesAndVariables\\CelsiusToFahrenhait\\Program.cs",
+              "RelativeDocumentMoniker": "CelsiusToFahrenhait\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\DataTypesAndVariables\\CelsiusToFahrenhait\\Program.cs",
+              "RelativeToolTip": "CelsiusToFahrenhait\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:01:38.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

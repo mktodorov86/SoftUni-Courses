@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\SimpleCommands\trapezoid\bin\Debug\net6.0\rectangle.exe
+C:\Users\mktod\QAFundamentals\SimpleCommands\trapezoid\bin\Debug\net6.0\rectangle.deps.json
+C:\Users\mktod\QAFundamentals\SimpleCommands\trapezoid\bin\Debug\net6.0\rectangle.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\SimpleCommands\trapezoid\bin\Debug\net6.0\rectangle.dll
+C:\Users\mktod\QAFundamentals\SimpleCommands\trapezoid\bin\Debug\net6.0\rectangle.pdb
+C:\Users\mktod\QAFundamentals\SimpleCommands\trapezoid\obj\Debug\net6.0\rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\SimpleCommands\trapezoid\obj\Debug\net6.0\rectangle.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\SimpleCommands\trapezoid\obj\Debug\net6.0\rectangle.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\SimpleCommands\trapezoid\obj\Debug\net6.0\rectangle.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\SimpleCommands\trapezoid\obj\Debug\net6.0\rectangle.dll
+C:\Users\mktod\QAFundamentals\SimpleCommands\trapezoid\obj\Debug\net6.0\refint\rectangle.dll
+C:\Users\mktod\QAFundamentals\SimpleCommands\trapezoid\obj\Debug\net6.0\rectangle.pdb
+C:\Users\mktod\QAFundamentals\SimpleCommands\trapezoid\obj\Debug\net6.0\rectangle.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\SimpleCommands\trapezoid\obj\Debug\net6.0\ref\rectangle.dll

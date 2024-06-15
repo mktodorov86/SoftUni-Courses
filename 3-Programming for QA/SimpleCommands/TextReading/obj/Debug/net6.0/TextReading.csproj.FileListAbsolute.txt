@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\SimpleCommands\TextReading\obj\Debug\net6.0\TextReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\SimpleCommands\TextReading\obj\Debug\net6.0\TextReading.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\SimpleCommands\TextReading\obj\Debug\net6.0\TextReading.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\SimpleCommands\TextReading\obj\Debug\net6.0\TextReading.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\SimpleCommands\TextReading\bin\Debug\net6.0\TextReading.exe
+C:\Users\mktod\QAFundamentals\SimpleCommands\TextReading\bin\Debug\net6.0\TextReading.deps.json
+C:\Users\mktod\QAFundamentals\SimpleCommands\TextReading\bin\Debug\net6.0\TextReading.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\SimpleCommands\TextReading\bin\Debug\net6.0\TextReading.dll
+C:\Users\mktod\QAFundamentals\SimpleCommands\TextReading\bin\Debug\net6.0\TextReading.pdb
+C:\Users\mktod\QAFundamentals\SimpleCommands\TextReading\obj\Debug\net6.0\TextReading.dll
+C:\Users\mktod\QAFundamentals\SimpleCommands\TextReading\obj\Debug\net6.0\refint\TextReading.dll
+C:\Users\mktod\QAFundamentals\SimpleCommands\TextReading\obj\Debug\net6.0\TextReading.pdb
+C:\Users\mktod\QAFundamentals\SimpleCommands\TextReading\obj\Debug\net6.0\TextReading.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\SimpleCommands\TextReading\obj\Debug\net6.0\ref\TextReading.dll

@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\DataVariables\radius\bin\Debug\net6.0\radius.exe
+C:\Users\mktod\QAFundamentals\DataVariables\radius\bin\Debug\net6.0\radius.deps.json
+C:\Users\mktod\QAFundamentals\DataVariables\radius\bin\Debug\net6.0\radius.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\DataVariables\radius\bin\Debug\net6.0\radius.dll
+C:\Users\mktod\QAFundamentals\DataVariables\radius\bin\Debug\net6.0\radius.pdb
+C:\Users\mktod\QAFundamentals\DataVariables\radius\obj\Debug\net6.0\radius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\DataVariables\radius\obj\Debug\net6.0\radius.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\DataVariables\radius\obj\Debug\net6.0\radius.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\DataVariables\radius\obj\Debug\net6.0\radius.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\DataVariables\radius\obj\Debug\net6.0\radius.dll
+C:\Users\mktod\QAFundamentals\DataVariables\radius\obj\Debug\net6.0\refint\radius.dll
+C:\Users\mktod\QAFundamentals\DataVariables\radius\obj\Debug\net6.0\radius.pdb
+C:\Users\mktod\QAFundamentals\DataVariables\radius\obj\Debug\net6.0\radius.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\DataVariables\radius\obj\Debug\net6.0\ref\radius.dll

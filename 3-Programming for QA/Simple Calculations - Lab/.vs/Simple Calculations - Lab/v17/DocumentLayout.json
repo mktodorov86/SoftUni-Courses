@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71354B12-E248-4D17-9B40-758736967C86}|SuppSchool\\SuppSchool.csproj|c:\\users\\mktod\\qafundamentals\\simple calculations - lab\\suppschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71354B12-E248-4D17-9B40-758736967C86}|SuppSchool\\SuppSchool.csproj|solutionrelative:suppschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71354B12-E248-4D17-9B40-758736967C86}|SuppSchool\\SuppSchool.csproj|c:\\users\\mktod\\qafundamentals\\simple calculations - lab\\suppschool\\suppschool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71354B12-E248-4D17-9B40-758736967C86}|SuppSchool\\SuppSchool.csproj|solutionrelative:suppschool\\suppschool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52018720-71C8-4C6B-AA33-35F01ADCCF6A}|MandLit\\MandLit.csproj|c:\\users\\mktod\\qafundamentals\\simple calculations - lab\\mandlit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52018720-71C8-4C6B-AA33-35F01ADCCF6A}|MandLit\\MandLit.csproj|solutionrelative:mandlit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52018720-71C8-4C6B-AA33-35F01ADCCF6A}|MandLit\\MandLit.csproj|c:\\users\\mktod\\qafundamentals\\simple calculations - lab\\mandlit\\mandlit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52018720-71C8-4C6B-AA33-35F01ADCCF6A}|MandLit\\MandLit.csproj|solutionrelative:mandlit\\mandlit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177A6DC1-3FFD-4AEF-B890-32C2EB9BA852}|DepCalc\\DepCalc.csproj|c:\\users\\mktod\\qafundamentals\\simple calculations - lab\\depcalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177A6DC1-3FFD-4AEF-B890-32C2EB9BA852}|DepCalc\\DepCalc.csproj|solutionrelative:depcalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EB5BFA-96F9-48F6-810B-8FFC2852AD51}|Tiles\\Tiles.csproj|c:\\users\\mktod\\qafundamentals\\simple calculations - lab\\tiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EB5BFA-96F9-48F6-810B-8FFC2852AD51}|Tiles\\Tiles.csproj|solutionrelative:tiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EB5BFA-96F9-48F6-810B-8FFC2852AD51}|Tiles\\Tiles.csproj|c:\\users\\mktod\\qafundamentals\\simple calculations - lab\\tiles\\tiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5EB5BFA-96F9-48F6-810B-8FFC2852AD51}|Tiles\\Tiles.csproj|solutionrelative:tiles\\tiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997D1A3-87B6-415A-8C3A-934B41E2AB07}|FourOperations\\FourOperations.csproj|c:\\users\\mktod\\qafundamentals\\simple calculations - lab\\fouroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F997D1A3-87B6-415A-8C3A-934B41E2AB07}|FourOperations\\FourOperations.csproj|solutionrelative:fouroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3208E3-526B-4F98-85EA-818E5B9BC043}|Market\\Market.csproj|c:\\users\\mktod\\qafundamentals\\simple calculations - lab\\market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3208E3-526B-4F98-85EA-818E5B9BC043}|Market\\Market.csproj|solutionrelative:market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3208E3-526B-4F98-85EA-818E5B9BC043}|Market\\Market.csproj|c:\\users\\mktod\\qafundamentals\\simple calculations - lab\\market\\market.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB3208E3-526B-4F98-85EA-818E5B9BC043}|Market\\Market.csproj|solutionrelative:market\\market.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F997D1A3-87B6-415A-8C3A-934B41E2AB07}|FourOperations\\FourOperations.csproj|c:\\users\\mktod\\qafundamentals\\simple calculations - lab\\fouroperations\\fouroperations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F997D1A3-87B6-415A-8C3A-934B41E2AB07}|FourOperations\\FourOperations.csproj|solutionrelative:fouroperations\\fouroperations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F398036-FDC6-42A9-96F4-DB3D5C26B448}|ConvertorUSDtoEUR\\ConvertorUSDtoEUR.csproj|c:\\users\\mktod\\qafundamentals\\simple calculations - lab\\convertorusdtoeur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F398036-FDC6-42A9-96F4-DB3D5C26B448}|ConvertorUSDtoEUR\\ConvertorUSDtoEUR.csproj|solutionrelative:convertorusdtoeur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F398036-FDC6-42A9-96F4-DB3D5C26B448}|ConvertorUSDtoEUR\\ConvertorUSDtoEUR.csproj|c:\\users\\mktod\\qafundamentals\\simple calculations - lab\\convertorusdtoeur\\convertorusdtoeur.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F398036-FDC6-42A9-96F4-DB3D5C26B448}|ConvertorUSDtoEUR\\ConvertorUSDtoEUR.csproj|solutionrelative:convertorusdtoeur\\convertorusdtoeur.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuppSchool",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\SuppSchool\\SuppSchool.csproj",
+              "RelativeDocumentMoniker": "SuppSchool\\SuppSchool.csproj",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\SuppSchool\\SuppSchool.csproj",
+              "RelativeToolTip": "SuppSchool\\SuppSchool.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T17:31:10.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\SuppSchool\\Program.cs",
+              "RelativeDocumentMoniker": "SuppSchool\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\SuppSchool\\Program.cs*",
+              "RelativeToolTip": "SuppSchool\\Program.cs*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:31:03.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MandLit",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\MandLit\\MandLit.csproj",
+              "RelativeDocumentMoniker": "MandLit\\MandLit.csproj",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\MandLit\\MandLit.csproj",
+              "RelativeToolTip": "MandLit\\MandLit.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T17:17:24.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\MandLit\\Program.cs",
+              "RelativeDocumentMoniker": "MandLit\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\MandLit\\Program.cs",
+              "RelativeToolTip": "MandLit\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:17:20.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\DepCalc\\Program.cs",
+              "RelativeDocumentMoniker": "DepCalc\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\DepCalc\\Program.cs",
+              "RelativeToolTip": "DepCalc\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:49:24.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tiles",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\Tiles\\Tiles.csproj",
+              "RelativeDocumentMoniker": "Tiles\\Tiles.csproj",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\Tiles\\Tiles.csproj",
+              "RelativeToolTip": "Tiles\\Tiles.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T16:14:00.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\Tiles\\Program.cs",
+              "RelativeDocumentMoniker": "Tiles\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\Tiles\\Program.cs",
+              "RelativeToolTip": "Tiles\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:13:51.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Market.csproj",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\Market\\Market.csproj",
+              "RelativeDocumentMoniker": "Market\\Market.csproj",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\Market\\Market.csproj",
+              "RelativeToolTip": "Market\\Market.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T20:22:33.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\Market\\Program.cs",
+              "RelativeDocumentMoniker": "Market\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\Market\\Program.cs",
+              "RelativeToolTip": "Market\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:22:19.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FourOperations.csproj",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\FourOperations\\FourOperations.csproj",
+              "RelativeDocumentMoniker": "FourOperations\\FourOperations.csproj",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\FourOperations\\FourOperations.csproj",
+              "RelativeToolTip": "FourOperations\\FourOperations.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T19:53:28.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\FourOperations\\Program.cs",
+              "RelativeDocumentMoniker": "FourOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\FourOperations\\Program.cs",
+              "RelativeToolTip": "FourOperations\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA9wBUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:53:19.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConvertorUSDtoEUR.csproj",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\ConvertorUSDtoEUR\\ConvertorUSDtoEUR.csproj",
+              "RelativeDocumentMoniker": "ConvertorUSDtoEUR\\ConvertorUSDtoEUR.csproj",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\ConvertorUSDtoEUR\\ConvertorUSDtoEUR.csproj",
+              "RelativeToolTip": "ConvertorUSDtoEUR\\ConvertorUSDtoEUR.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T19:44:02.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\ConvertorUSDtoEUR\\Program.cs",
+              "RelativeDocumentMoniker": "ConvertorUSDtoEUR\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\QAFundamentals\\Simple Calculations - Lab\\ConvertorUSDtoEUR\\Program.cs",
+              "RelativeToolTip": "ConvertorUSDtoEUR\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:43:33.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
