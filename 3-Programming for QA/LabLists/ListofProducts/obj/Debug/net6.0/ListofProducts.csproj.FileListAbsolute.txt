@@ -1,0 +1,15 @@
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\bin\Debug\net6.0\ListofProducts.exe
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\bin\Debug\net6.0\ListofProducts.deps.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\bin\Debug\net6.0\ListofProducts.runtimeconfig.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\bin\Debug\net6.0\ListofProducts.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\bin\Debug\net6.0\ListofProducts.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\obj\Debug\net6.0\ListofProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\obj\Debug\net6.0\ListofProducts.AssemblyInfoInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\obj\Debug\net6.0\ListofProducts.AssemblyInfo.cs
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\obj\Debug\net6.0\ListofProducts.csproj.CoreCompileInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\obj\Debug\net6.0\ListofProducts.sourcelink.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\obj\Debug\net6.0\ListofProducts.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\obj\Debug\net6.0\refint\ListofProducts.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\obj\Debug\net6.0\ListofProducts.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\obj\Debug\net6.0\ListofProducts.genruntimeconfig.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabLists\ListofProducts\obj\Debug\net6.0\ref\ListofProducts.dll

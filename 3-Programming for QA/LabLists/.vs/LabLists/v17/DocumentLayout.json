@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\LabLists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73F1F495-D53F-4018-A191-2B2510717D99}|ListManipulationAdvanced\\ListManipulationAdvanced.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\lablists\\listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F1F495-D53F-4018-A191-2B2510717D99}|ListManipulationAdvanced\\ListManipulationAdvanced.csproj|solutionrelative:listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986E35CB-24F6-4918-8F0C-43561470E264}|ListManipulationBasics\\ListManipulationBasics.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\lablists\\listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986E35CB-24F6-4918-8F0C-43561470E264}|ListManipulationBasics\\ListManipulationBasics.csproj|solutionrelative:listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1742A32E-C513-49CD-9D14-8FD23D866B99}|RemoveNegativesandReverse\\RemoveNegativesandReverse.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\lablists\\removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1742A32E-C513-49CD-9D14-8FD23D866B99}|RemoveNegativesandReverse\\RemoveNegativesandReverse.csproj|solutionrelative:removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9722E20-6C4A-4CAB-A09F-42D6ECCE95FF}|ListofProducts\\ListofProducts.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\lablists\\listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9722E20-6C4A-4CAB-A09F-42D6ECCE95FF}|ListofProducts\\ListofProducts.csproj|solutionrelative:listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD594E4F-F570-40D9-983C-BD54A86E84E4}|ChangeList\\ChangeList.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\lablists\\changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD594E4F-F570-40D9-983C-BD54A86E84E4}|ChangeList\\ChangeList.csproj|solutionrelative:changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\LabLists\\ListManipulationAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "ListManipulationAdvanced\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\LabLists\\ListManipulationAdvanced\\Program.cs",
+              "RelativeToolTip": "ListManipulationAdvanced\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:51:42.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\LabLists\\ListManipulationBasics\\Program.cs",
+              "RelativeDocumentMoniker": "ListManipulationBasics\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\LabLists\\ListManipulationBasics\\Program.cs",
+              "RelativeToolTip": "ListManipulationBasics\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:50:22.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\LabLists\\RemoveNegativesandReverse\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveNegativesandReverse\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\LabLists\\RemoveNegativesandReverse\\Program.cs",
+              "RelativeToolTip": "RemoveNegativesandReverse\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:48:31.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\LabLists\\ListofProducts\\Program.cs",
+              "RelativeDocumentMoniker": "ListofProducts\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\LabLists\\ListofProducts\\Program.cs",
+              "RelativeToolTip": "ListofProducts\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:46:03.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\LabLists\\ChangeList\\Program.cs",
+              "RelativeDocumentMoniker": "ChangeList\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\LabLists\\ChangeList\\Program.cs",
+              "RelativeToolTip": "ChangeList\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:44:48.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
