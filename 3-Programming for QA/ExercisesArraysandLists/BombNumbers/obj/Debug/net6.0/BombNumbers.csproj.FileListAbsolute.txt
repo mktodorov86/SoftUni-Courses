@@ -1,0 +1,15 @@
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\bin\Debug\net6.0\BombNumbers.exe
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\bin\Debug\net6.0\BombNumbers.deps.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\bin\Debug\net6.0\BombNumbers.runtimeconfig.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\bin\Debug\net6.0\BombNumbers.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\bin\Debug\net6.0\BombNumbers.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\obj\Debug\net6.0\BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\obj\Debug\net6.0\BombNumbers.AssemblyInfoInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\obj\Debug\net6.0\BombNumbers.AssemblyInfo.cs
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\obj\Debug\net6.0\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\obj\Debug\net6.0\BombNumbers.sourcelink.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\obj\Debug\net6.0\BombNumbers.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\obj\Debug\net6.0\refint\BombNumbers.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\obj\Debug\net6.0\BombNumbers.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\obj\Debug\net6.0\BombNumbers.genruntimeconfig.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\BombNumbers\obj\Debug\net6.0\ref\BombNumbers.dll
