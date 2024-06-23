@@ -1,0 +1,15 @@
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\bin\Debug\net6.0\SumAnAray.exe
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\bin\Debug\net6.0\SumAnAray.deps.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\bin\Debug\net6.0\SumAnAray.runtimeconfig.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\bin\Debug\net6.0\SumAnAray.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\bin\Debug\net6.0\SumAnAray.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\obj\Debug\net6.0\SumAnAray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\obj\Debug\net6.0\SumAnAray.AssemblyInfoInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\obj\Debug\net6.0\SumAnAray.AssemblyInfo.cs
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\obj\Debug\net6.0\SumAnAray.csproj.CoreCompileInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\obj\Debug\net6.0\SumAnAray.sourcelink.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\obj\Debug\net6.0\SumAnAray.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\obj\Debug\net6.0\refint\SumAnAray.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\obj\Debug\net6.0\SumAnAray.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\obj\Debug\net6.0\SumAnAray.genruntimeconfig.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\SumAnAray\obj\Debug\net6.0\ref\SumAnAray.dll

@@ -1,0 +1,15 @@
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.AssemblyInfo.cs
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.sourcelink.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\bin\Debug\net6.0\EvenandOddSubtraction.exe
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\bin\Debug\net6.0\EvenandOddSubtraction.deps.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\bin\Debug\net6.0\EvenandOddSubtraction.runtimeconfig.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\bin\Debug\net6.0\EvenandOddSubtraction.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\bin\Debug\net6.0\EvenandOddSubtraction.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\obj\Debug\net6.0\refint\EvenandOddSubtraction.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.genruntimeconfig.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EvenandOddSubtraction\obj\Debug\net6.0\ref\EvenandOddSubtraction.dll

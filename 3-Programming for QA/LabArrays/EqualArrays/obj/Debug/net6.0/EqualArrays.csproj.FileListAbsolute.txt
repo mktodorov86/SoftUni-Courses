@@ -1,0 +1,15 @@
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\bin\Debug\net6.0\EqualArrays.exe
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\bin\Debug\net6.0\EqualArrays.deps.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\bin\Debug\net6.0\EqualArrays.runtimeconfig.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\bin\Debug\net6.0\EqualArrays.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\bin\Debug\net6.0\EqualArrays.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.AssemblyInfoInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.AssemblyInfo.cs
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.sourcelink.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\obj\Debug\net6.0\refint\EqualArrays.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\obj\Debug\net6.0\EqualArrays.genruntimeconfig.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\EqualArrays\obj\Debug\net6.0\ref\EqualArrays.dll

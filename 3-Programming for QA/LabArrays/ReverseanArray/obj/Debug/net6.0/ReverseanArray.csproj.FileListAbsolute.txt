@@ -1,0 +1,15 @@
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\bin\Debug\net6.0\ReverseanArray.exe
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\bin\Debug\net6.0\ReverseanArray.deps.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\bin\Debug\net6.0\ReverseanArray.runtimeconfig.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\bin\Debug\net6.0\ReverseanArray.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\bin\Debug\net6.0\ReverseanArray.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\obj\Debug\net6.0\ReverseanArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\obj\Debug\net6.0\ReverseanArray.AssemblyInfoInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\obj\Debug\net6.0\ReverseanArray.AssemblyInfo.cs
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\obj\Debug\net6.0\ReverseanArray.csproj.CoreCompileInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\obj\Debug\net6.0\ReverseanArray.sourcelink.json
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\obj\Debug\net6.0\ReverseanArray.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\obj\Debug\net6.0\refint\ReverseanArray.dll
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\obj\Debug\net6.0\ReverseanArray.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\obj\Debug\net6.0\ReverseanArray.genruntimeconfig.cache
+C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\LabArrays\ReverseanArray\obj\Debug\net6.0\ref\ReverseanArray.dll
