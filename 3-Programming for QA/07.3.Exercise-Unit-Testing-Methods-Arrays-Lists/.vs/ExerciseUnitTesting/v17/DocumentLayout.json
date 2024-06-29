@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp.unittests\\reversertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\reversertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp\\reverser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|solutionrelative:testapp\\reverser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp.unittests\\emailtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\emailtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|solutionrelative:testapp\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp.unittests\\fibonaccitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\fibonaccitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|solutionrelative:testapp\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp.unittests\\primefactortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\primefactortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp\\primefactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|solutionrelative:testapp\\primefactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp.unittests\\patterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\patterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp\\pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|solutionrelative:testapp\\pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp.unittests\\palindrometests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\palindrometests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|solutionrelative:testapp\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp.unittests\\numberprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\numberprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp\\numberprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|solutionrelative:testapp\\numberprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp.unittests\\matrixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\matrixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp.unittests\\faketests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\faketests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|solutionrelative:testapp\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp\\fake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|solutionrelative:testapp\\fake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp.unittests\\duplicatestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0451AC-6EF6-4DEB-AB57-595B56640BED}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\duplicatestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\07.3.resources-exercise-unit-testing-methods-arrays-lists\\testapp\\duplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA9A811-DA4D-4CBD-B90A-9BD7912071A3}|TestApp\\TestApp.csproj|solutionrelative:testapp\\duplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReverserTests.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\ReverserTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\ReverserTests.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\ReverserTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\ReverserTests.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:20:34.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reverser.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Reverser.cs",
+              "RelativeDocumentMoniker": "TestApp\\Reverser.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Reverser.cs",
+              "RelativeToolTip": "TestApp\\Reverser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:20:17.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrimeFactorTests.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\PrimeFactorTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PrimeFactorTests.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\PrimeFactorTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PrimeFactorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:18:28.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FibonacciTests.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\FibonacciTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\FibonacciTests.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\FibonacciTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\FibonacciTests.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:35:26.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "TestApp\\Fibonacci.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Fibonacci.cs",
+              "RelativeToolTip": "TestApp\\Fibonacci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:35:08.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Email.cs",
+              "RelativeDocumentMoniker": "TestApp\\Email.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Email.cs",
+              "RelativeToolTip": "TestApp\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:11:06.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailTests.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\EmailTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\EmailTests.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\EmailTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\EmailTests.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:11:30.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrimeFactor.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\PrimeFactor.cs",
+              "RelativeDocumentMoniker": "TestApp\\PrimeFactor.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\PrimeFactor.cs",
+              "RelativeToolTip": "TestApp\\PrimeFactor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:18:01.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatternTests.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\PatternTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PatternTests.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\PatternTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PatternTests.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:15:30.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pattern.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Pattern.cs",
+              "RelativeDocumentMoniker": "TestApp\\Pattern.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Pattern.cs",
+              "RelativeToolTip": "TestApp\\Pattern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:15:03.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PalindromeTests.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\PalindromeTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PalindromeTests.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\PalindromeTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PalindromeTests.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAASwD8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:10:52.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Palindrome.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Palindrome.cs",
+              "RelativeDocumentMoniker": "TestApp\\Palindrome.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Palindrome.cs",
+              "RelativeToolTip": "TestApp\\Palindrome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:10:28.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NumberProcessorTests.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\NumberProcessorTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\NumberProcessorTests.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\NumberProcessorTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\NumberProcessorTests.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAASwDoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:53:27.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NumberProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\NumberProcessor.cs",
+              "RelativeDocumentMoniker": "TestApp\\NumberProcessor.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\NumberProcessor.cs",
+              "RelativeToolTip": "TestApp\\NumberProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:03:47.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MatrixTests.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\MatrixTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\MatrixTests.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\MatrixTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\MatrixTests.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAqwIsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:42:18.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Matrix.cs",
+              "RelativeDocumentMoniker": "TestApp\\Matrix.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Matrix.cs",
+              "RelativeToolTip": "TestApp\\Matrix.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:38:46.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FakeTests.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\FakeTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\FakeTests.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\FakeTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\FakeTests.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAewCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:31:18.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Fake.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Fake.cs",
+              "RelativeDocumentMoniker": "TestApp\\Fake.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Fake.cs",
+              "RelativeToolTip": "TestApp\\Fake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:30:56.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DuplicatesTests.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\DuplicatesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\DuplicatesTests.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp.UnitTests\\DuplicatesTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\DuplicatesTests.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwDMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:06:47.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Duplicates.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Duplicates.cs",
+              "RelativeDocumentMoniker": "TestApp\\Duplicates.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\Duplicates.cs",
+              "RelativeToolTip": "TestApp\\Duplicates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:06:25.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
