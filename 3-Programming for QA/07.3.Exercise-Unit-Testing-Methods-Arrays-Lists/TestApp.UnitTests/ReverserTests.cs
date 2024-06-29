@@ -1,64 +1,66 @@
 ﻿using NUnit.Framework;
+using System.Linq;
+using TestApp; // Assuming Reverser class is in the TestApp namespace
 
-using System;
-
-namespace TestApp.UnitTests;
-
-public class ReverserTests
+namespace TestApp.UnitTests
 {
-    [Test]
-    public void Test_ReverseStrings_WithEmptyArray_ReturnsEmptyArray()
+    [TestFixture]
+    public class ReverserTests
     {
-        // Arrange
-        string[] inputArray = Array.Empty<string>();
+        [Test]
+        public void Test_ReverseStrings_WithEmptyArray_ReturnsEmptyArray()
+        {
+            // Arrange
+            string[] input = { };
+            string[] expected = { };
 
-        // Act
-        string[] result = Reverser.ReverseStrings(inputArray);
+            // Act
+            string[] result = Reverser.ReverseStrings(input);
 
-        // Assert
-        Assert.That(result, Is.Empty);
-    }
+            // Assert
+            CollectionAssert.AreEqual(expected, result);
+        }
 
-    // TODO: finish test
-    [Test]
-    public void Test_ReverseStrings_WithSingleString_ReturnsReversedString()
-    {
-        // Arrange
-        string[] array = new string[] { "Hello" };
-        string[] expected = new string[] { "olleH" };
+        [Test]
+        public void Test_ReverseStrings_WithSingleString_ReturnsReversedString()
+        {
+            // Arrange
+            string[] inputArray = { "hello" };
+            string expected = "olleh";
 
-        // Act
-        string[] actual = Reverser.ReverseStrings(array);
+            // Act
+            string[] resultArray = Reverser.ReverseStrings(inputArray);
 
-        // Assert
-        CollectionAssert.AreEqual(expected, actual);
-    }
+            // Assert
+            Assert.AreEqual(expected, resultArray[0]); // Directly check the first element
+        }
 
-    [Test]
-    public void Test_ReverseStrings_WithMultipleStrings_ReturnsReversedStrings()
-    {
-        // Arrange
-        string[] array = new string[] { "Hello", "Orlin" };
-        string[] expected = new string[] { "olleH", "nilrO" };
+        [Test]
+        public void Test_ReverseStrings_WithMultipleStrings_ReturnsReversedStrings()
+        {
+            // Arrange
+            string[] inputArray = { "hello", "world", "dotnet" };
+            string[] expectedArray = { "olleh", "dlrow", "tentod" };
 
-        // Act
-        string[] actual = Reverser.ReverseStrings(array);
+            // Act
+            string[] resultArray = Reverser.ReverseStrings(inputArray);
 
-        // Assert
-        CollectionAssert.AreEqual(expected, actual);
-    }
+            // Assert
+            CollectionAssert.AreEqual(expectedArray, resultArray);
+        }
 
-    [Test]
-    public void Test_ReverseStrings_WithSpecialCharacters_ReturnsReversedSpecialCharacters()
-    {
-        // Arrange
-        string[] array = new string[] { "Hello!", "@Orlin" };
-        string[] expected = new string[] { "!olleH", "nilrO@" };
+        [Test]
+        public void Test_ReverseStrings_WithSpecialCharacters_ReturnsReversedSpecialCharacters()
+        {
+            // Arrange
+            string[] inputArray = { "Hello! World?", "Dot.net, Example!" };
+            string[] expectedArray = { "?dlroW !olleH", "!elpmaxE ,ten.toD" };
 
-        // Act
-        string[] actual = Reverser.ReverseStrings(array);
+            // Act
+            string[] resultArray = Reverser.ReverseStrings(inputArray);
 
-        // Assert
-        CollectionAssert.AreEqual(expected, actual);
+            // Assert
+            CollectionAssert.AreEqual(expectedArray, resultArray);
+        }
     }
 }

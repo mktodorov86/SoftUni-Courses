@@ -60,6 +60,15 @@ namespace TestApp.UnitTests
             // Assert
             Assert.IsFalse(isValid, "Whitespace input should return false.");
         }
+        [Test]
+        public void Test_IsValidEmail_MissingDomain()
+        {
+            // Act
+            bool isValid = Email.IsValidEmail("test@");
+
+            // Assert
+            Assert.IsFalse(isValid, "Email missing domain should return false.");
+        }
 
         // Add more test cases as needed to cover edge cases and specific scenarios
     }

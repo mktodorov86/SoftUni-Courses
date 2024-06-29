@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\TestApp.csproj": {}
+    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\TestApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\TestApp.csproj": {
+    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\TestApp.csproj",
+        "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\TestApp.csproj",
         "projectName": "TestApp",
-        "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\TestApp.csproj",
+        "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\TestApp.csproj",
         "packagesPath": "C:\\Users\\mktod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\obj\\",
+        "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mktod\\AppData\\Roaming\\NuGet\\NuGet.Config",

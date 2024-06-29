@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eR1UihY8XQBjAxy8UZHUXDdgiNfp3oKOs+2QsUFyHlntI2RNZv6FxUoX9sXq7DPwOvPvd++yPcHV7nT6zkvqBQ==",
+  "dgSpecHash": "BoCMOONhIvJ2k6JTLX1tGLekQUeiaR4/mHDwRGHFFJAPY7wetVEU1pbBHTkPzETaa+keqlyAb8Eyv3bOXE8InA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\TestApp.csproj",
+  "projectFilePath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.3.Exercise-Unit-Testing-Methods-Arrays-Lists\\TestApp\\TestApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

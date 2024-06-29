@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestApp.UnitTests
-build_property.ProjectDir = C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\TestApp.UnitTests\
+build_property.ProjectDir = C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\07.3.Exercise-Unit-Testing-Methods-Arrays-Lists\TestApp.UnitTests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
