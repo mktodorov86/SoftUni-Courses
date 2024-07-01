@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EbX2hVS26ttMa55ASuj1+db5C3JGZydsWmRxW/MTZmZQHEyUpZNvcQX35GdnVKzE6MpSa1U23n5ZJuDuzDpDfg==",
+  "dgSpecHash": "VCV2loZxby/eehXRREaPX86y4rQU+C/M1QZOD2U4W9X7Zzj4jCWoas7NZXWhi7vmMXKw0gNt/d0QKNHxFFTDnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mktod\\Desktop\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.2.Resurces-Unit-Testng-Arrays-Lists\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mktod\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\mktod\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

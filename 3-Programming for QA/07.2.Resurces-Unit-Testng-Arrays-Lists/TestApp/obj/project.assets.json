@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mktod\\Desktop\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.2.Resurces-Unit-Testng-Arrays-Lists\\TestApp\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "C:\\Users\\mktod\\Desktop\\TestApp\\TestApp.csproj",
+      "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.2.Resurces-Unit-Testng-Arrays-Lists\\TestApp\\TestApp.csproj",
       "packagesPath": "C:\\Users\\mktod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mktod\\Desktop\\TestApp\\obj\\",
+      "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\07.2.Resurces-Unit-Testng-Arrays-Lists\\TestApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mktod\\AppData\\Roaming\\NuGet\\NuGet.Config",

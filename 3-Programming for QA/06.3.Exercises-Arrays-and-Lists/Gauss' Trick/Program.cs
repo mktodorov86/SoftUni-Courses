@@ -1,29 +1,55 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
-class Program
+public class Program
 {
-    static void Main()
+    public static void Main()
     {
-        // Read input sequence of integers
-        List<int> numbers = Console.ReadLine()
-                                   .Split(' ', StringSplitOptions.RemoveEmptyEntries)
-                                   .Select(int.Parse)
-                                   .ToList();
+        // Read the sequence of integers from the console
+        Console.WriteLine("Enter a sequence of integers separated by spaces:");
+        string input = Console.ReadLine();
 
-        // Calculate and print sums as described
-        int n = numbers.Count;
-        for (int i = 0; i < n / 2; i++)
+        // Split the input into individual numbers
+        string[] numbers = input.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+        List<int> sequence = new List<int>();
+
+        foreach (string number in numbers)
         {
-            int sum = numbers[i] + numbers[n - 1 - i];
-            Console.Write(sum+" ");
+            if (int.TryParse(number, out int num))
+            {
+                sequence.Add(num);
+            }
+            else
+            {
+                Console.WriteLine($"Invalid input: '{number}' is not a valid integer.");
+                return;
+            }
         }
 
-        // If the list has an odd number of elements, also calculate and print the middle element
-        if (n % 2 != 0)
+        // Calculate the sums in the specified order
+        int left = 0;
+        int right = sequence.Count - 1;
+        int n = sequence.Count / 2; // Integer division
+        List<int> sums = new List<int>();
+
+        for (int i = 0; i < n; i++)
         {
-            Console.Write(numbers[n / 2]);
+            int sum = sequence[left + i] + sequence[right - i];
+            sums.Add(sum);
+        }
+
+        // Handle the middle element if the sequence length is odd
+        if (sequence.Count % 2 != 0)
+        {
+            sums.Add(sequence[left + n]);
+        }
+
+        // Output the results
+        Console.WriteLine("Sums in the specified order:");
+        foreach (int sum in sums)
+        {
+            Console.WriteLine(sum);
         }
     }
 }
+

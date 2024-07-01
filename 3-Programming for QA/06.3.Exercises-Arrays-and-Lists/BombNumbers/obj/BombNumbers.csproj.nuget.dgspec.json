@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\BombNumbers\\BombNumbers.csproj": {}
+    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\BombNumbers\\BombNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\BombNumbers\\BombNumbers.csproj": {
+    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\BombNumbers\\BombNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\BombNumbers\\BombNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\BombNumbers\\BombNumbers.csproj",
         "projectName": "BombNumbers",
-        "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\BombNumbers\\BombNumbers.csproj",
+        "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\BombNumbers\\BombNumbers.csproj",
         "packagesPath": "C:\\Users\\mktod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\BombNumbers\\obj\\",
+        "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\BombNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mktod\\AppData\\Roaming\\NuGet\\NuGet.Config",

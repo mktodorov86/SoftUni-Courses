@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\SumAdjacentEqualNumbers\\SumAdjacentEqualNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\SumAdjacentEqualNumbers\\SumAdjacentEqualNumbers.csproj",
       "projectName": "SumAdjacentEqualNumbers",
-      "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\SumAdjacentEqualNumbers\\SumAdjacentEqualNumbers.csproj",
+      "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\SumAdjacentEqualNumbers\\SumAdjacentEqualNumbers.csproj",
       "packagesPath": "C:\\Users\\mktod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\SumAdjacentEqualNumbers\\obj\\",
+      "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\SumAdjacentEqualNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mktod\\AppData\\Roaming\\NuGet\\NuGet.Config",

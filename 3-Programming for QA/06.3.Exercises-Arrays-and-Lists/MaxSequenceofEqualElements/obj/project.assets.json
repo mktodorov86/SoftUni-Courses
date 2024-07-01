@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\MaxSequenceofEqualElements\\MaxSequenceofEqualElements.csproj",
+      "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\MaxSequenceofEqualElements\\MaxSequenceofEqualElements.csproj",
       "projectName": "MaxSequenceofEqualElements",
-      "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\MaxSequenceofEqualElements\\MaxSequenceofEqualElements.csproj",
+      "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\MaxSequenceofEqualElements\\MaxSequenceofEqualElements.csproj",
       "packagesPath": "C:\\Users\\mktod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\MaxSequenceofEqualElements\\obj\\",
+      "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\MaxSequenceofEqualElements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mktod\\AppData\\Roaming\\NuGet\\NuGet.Config",

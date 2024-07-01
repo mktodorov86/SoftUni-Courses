@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\CardsGame\\CardsGame.csproj": {}
+    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\CardsGame\\CardsGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\CardsGame\\CardsGame.csproj": {
+    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\CardsGame\\CardsGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\CardsGame\\CardsGame.csproj",
+        "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\CardsGame\\CardsGame.csproj",
         "projectName": "CardsGame",
-        "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\CardsGame\\CardsGame.csproj",
+        "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\CardsGame\\CardsGame.csproj",
         "packagesPath": "C:\\Users\\mktod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\CardsGame\\obj\\",
+        "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\CardsGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mktod\\AppData\\Roaming\\NuGet\\NuGet.Config",

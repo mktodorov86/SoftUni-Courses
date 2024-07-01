@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TopIntegers
-build_property.ProjectDir = C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\ExercisesArraysandLists\TopIntegers\
+build_property.ProjectDir = C:\Users\mktod\Documents\SoftUni-Courses\3-Programming for QA\06.3.Exercises-Arrays-and-Lists\TopIntegers\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

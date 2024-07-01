@@ -1,46 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\",
+  "WorkspaceRootPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FC900BF-3664-434F-97C5-49E21BCF950E}|TopIntegers\\TopIntegers.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\exercisesarraysandlists\\topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67AD0592-FDD6-4077-8C35-98E420F1347A}|Gauss\u0027 Trick\\Gauss\u0027 Trick.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\06.3.exercises-arrays-and-lists\\gauss\u0027 trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD0592-FDD6-4077-8C35-98E420F1347A}|Gauss\u0027 Trick\\Gauss\u0027 Trick.csproj|solutionrelative:gauss\u0027 trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AD0592-FDD6-4077-8C35-98E420F1347A}|Gauss\u0027 Trick\\Gauss\u0027 Trick.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\06.3.exercises-arrays-and-lists\\gauss\u0027 trick\\gauss\u0027 trick.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67AD0592-FDD6-4077-8C35-98E420F1347A}|Gauss\u0027 Trick\\Gauss\u0027 Trick.csproj|solutionrelative:gauss\u0027 trick\\gauss\u0027 trick.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC900BF-3664-434F-97C5-49E21BCF950E}|TopIntegers\\TopIntegers.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\06.3.exercises-arrays-and-lists\\topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FC900BF-3664-434F-97C5-49E21BCF950E}|TopIntegers\\TopIntegers.csproj|solutionrelative:topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DBA7F1E-8551-4A83-9337-8880BC761D04}|MaxSequenceofEqualElements\\MaxSequenceofEqualElements.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\exercisesarraysandlists\\maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DBA7F1E-8551-4A83-9337-8880BC761D04}|MaxSequenceofEqualElements\\MaxSequenceofEqualElements.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\06.3.exercises-arrays-and-lists\\maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DBA7F1E-8551-4A83-9337-8880BC761D04}|MaxSequenceofEqualElements\\MaxSequenceofEqualElements.csproj|solutionrelative:maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F6D3ADA-616A-4ED6-B7A3-3BA6423CC337}|ArrayRotation\\ArrayRotation.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\exercisesarraysandlists\\arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F6D3ADA-616A-4ED6-B7A3-3BA6423CC337}|ArrayRotation\\ArrayRotation.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\06.3.exercises-arrays-and-lists\\arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F6D3ADA-616A-4ED6-B7A3-3BA6423CC337}|ArrayRotation\\ArrayRotation.csproj|solutionrelative:arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F155C4A-0AA8-40D7-A391-AC2B3A081B58}|ZigZagArrays\\ZigZagArrays.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\exercisesarraysandlists\\zigzagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F155C4A-0AA8-40D7-A391-AC2B3A081B58}|ZigZagArrays\\ZigZagArrays.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\06.3.exercises-arrays-and-lists\\zigzagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F155C4A-0AA8-40D7-A391-AC2B3A081B58}|ZigZagArrays\\ZigZagArrays.csproj|solutionrelative:zigzagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F8CAF2C-B247-4557-A513-EA268694F7C9}|CardsGame\\CardsGame.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\exercisesarraysandlists\\cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4F8CAF2C-B247-4557-A513-EA268694F7C9}|CardsGame\\CardsGame.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\06.3.exercises-arrays-and-lists\\cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F8CAF2C-B247-4557-A513-EA268694F7C9}|CardsGame\\CardsGame.csproj|solutionrelative:cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7011F9A9-F632-4A34-B9BE-3C2C9B00FF44}|BombNumbers\\BombNumbers.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\exercisesarraysandlists\\bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7011F9A9-F632-4A34-B9BE-3C2C9B00FF44}|BombNumbers\\BombNumbers.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\06.3.exercises-arrays-and-lists\\bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7011F9A9-F632-4A34-B9BE-3C2C9B00FF44}|BombNumbers\\BombNumbers.csproj|solutionrelative:bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3D6EF18-1DC7-4BBE-AC07-EEA6031E0AE9}|SumAdjacentEqualNumbers\\SumAdjacentEqualNumbers.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\exercisesarraysandlists\\sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3D6EF18-1DC7-4BBE-AC07-EEA6031E0AE9}|SumAdjacentEqualNumbers\\SumAdjacentEqualNumbers.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\06.3.exercises-arrays-and-lists\\sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3D6EF18-1DC7-4BBE-AC07-EEA6031E0AE9}|SumAdjacentEqualNumbers\\SumAdjacentEqualNumbers.csproj|solutionrelative:sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD6B115F-DE10-4327-858B-93262CDC19BF}|MergingLists\\MergingLists.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\exercisesarraysandlists\\merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD6B115F-DE10-4327-858B-93262CDC19BF}|MergingLists\\MergingLists.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\06.3.exercises-arrays-and-lists\\merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD6B115F-DE10-4327-858B-93262CDC19BF}|MergingLists\\MergingLists.csproj|solutionrelative:merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62F4C61B-75C0-4F6D-AAD7-86614F0B19D4}|CondenseArraytoNumber\\CondenseArraytoNumber.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\exercisesarraysandlists\\condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62F4C61B-75C0-4F6D-AAD7-86614F0B19D4}|CondenseArraytoNumber\\CondenseArraytoNumber.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\06.3.exercises-arrays-and-lists\\condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62F4C61B-75C0-4F6D-AAD7-86614F0B19D4}|CondenseArraytoNumber\\CondenseArraytoNumber.csproj|solutionrelative:condensearraytonumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67AD0592-FDD6-4077-8C35-98E420F1347A}|Gauss\u0027 Trick\\Gauss\u0027 Trick.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\exercisesarraysandlists\\gauss\u0027 trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67AD0592-FDD6-4077-8C35-98E420F1347A}|Gauss\u0027 Trick\\Gauss\u0027 Trick.csproj|solutionrelative:gauss\u0027 trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,137 +54,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\TopIntegers\\Program.cs",
-              "RelativeDocumentMoniker": "TopIntegers\\Program.cs",
-              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\TopIntegers\\Program.cs",
-              "RelativeToolTip": "TopIntegers\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T13:34:44.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\MaxSequenceofEqualElements\\Program.cs",
-              "RelativeDocumentMoniker": "MaxSequenceofEqualElements\\Program.cs",
-              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\MaxSequenceofEqualElements\\Program.cs",
-              "RelativeToolTip": "MaxSequenceofEqualElements\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAwwDwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T13:33:24.963Z",
-              "EditorCaption": ""
+              "Title": "Gauss\u0027 Trick.csproj",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\Gauss\u0027 Trick\\Gauss\u0027 Trick.csproj",
+              "RelativeDocumentMoniker": "Gauss\u0027 Trick\\Gauss\u0027 Trick.csproj",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\Gauss\u0027 Trick\\Gauss\u0027 Trick.csproj",
+              "RelativeToolTip": "Gauss\u0027 Trick\\Gauss\u0027 Trick.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T16:23:28.923Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\ArrayRotation\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\TopIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "TopIntegers\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\TopIntegers\\Program.cs",
+              "RelativeToolTip": "TopIntegers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:34:44.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\ArrayRotation\\Program.cs",
               "RelativeDocumentMoniker": "ArrayRotation\\Program.cs",
-              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\ArrayRotation\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\ArrayRotation\\Program.cs",
               "RelativeToolTip": "ArrayRotation\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAwwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T13:32:22.613Z",
+              "WhenOpened": "2024-06-23T13:32:22.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\ZigZagArrays\\Program.cs",
+              "RelativeDocumentMoniker": "ZigZagArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\ZigZagArrays\\Program.cs",
+              "RelativeToolTip": "ZigZagArrays\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:24:31.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\CardsGame\\Program.cs",
+              "RelativeDocumentMoniker": "CardsGame\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\CardsGame\\Program.cs",
+              "RelativeToolTip": "CardsGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:23:17.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\BombNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "BombNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\BombNumbers\\Program.cs",
+              "RelativeToolTip": "BombNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:20:28.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SumAdjacentEqualNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeToolTip": "SumAdjacentEqualNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:19:04.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\Gauss\u0027 Trick\\Program.cs",
+              "RelativeDocumentMoniker": "Gauss\u0027 Trick\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\Gauss\u0027 Trick\\Program.cs",
+              "RelativeToolTip": "Gauss\u0027 Trick\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:12:15.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\ZigZagArrays\\Program.cs",
-              "RelativeDocumentMoniker": "ZigZagArrays\\Program.cs",
-              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\ZigZagArrays\\Program.cs",
-              "RelativeToolTip": "ZigZagArrays\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwDIAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\MaxSequenceofEqualElements\\Program.cs",
+              "RelativeDocumentMoniker": "MaxSequenceofEqualElements\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\MaxSequenceofEqualElements\\Program.cs",
+              "RelativeToolTip": "MaxSequenceofEqualElements\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T13:24:31.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\CardsGame\\Program.cs",
-              "RelativeDocumentMoniker": "CardsGame\\Program.cs",
-              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\CardsGame\\Program.cs",
-              "RelativeToolTip": "CardsGame\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T13:23:17.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\BombNumbers\\Program.cs",
-              "RelativeDocumentMoniker": "BombNumbers\\Program.cs",
-              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\BombNumbers\\Program.cs",
-              "RelativeToolTip": "BombNumbers\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T13:20:28.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\SumAdjacentEqualNumbers\\Program.cs",
-              "RelativeDocumentMoniker": "SumAdjacentEqualNumbers\\Program.cs",
-              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\SumAdjacentEqualNumbers\\Program.cs",
-              "RelativeToolTip": "SumAdjacentEqualNumbers\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T13:19:04.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\MergingLists\\Program.cs",
-              "RelativeDocumentMoniker": "MergingLists\\Program.cs",
-              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\MergingLists\\Program.cs",
-              "RelativeToolTip": "MergingLists\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAwwC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T13:17:55.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\CondenseArraytoNumber\\Program.cs",
-              "RelativeDocumentMoniker": "CondenseArraytoNumber\\Program.cs",
-              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\CondenseArraytoNumber\\Program.cs",
-              "RelativeToolTip": "CondenseArraytoNumber\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T13:16:33.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T13:33:24.963Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\Gauss\u0027 Trick\\Program.cs",
-              "RelativeDocumentMoniker": "Gauss\u0027 Trick\\Program.cs",
-              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\Gauss\u0027 Trick\\Program.cs",
-              "RelativeToolTip": "Gauss\u0027 Trick\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAgwB0AAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\MergingLists\\Program.cs",
+              "RelativeDocumentMoniker": "MergingLists\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\MergingLists\\Program.cs",
+              "RelativeToolTip": "MergingLists\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T13:12:15.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T13:17:55.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\CondenseArraytoNumber\\Program.cs",
+              "RelativeDocumentMoniker": "CondenseArraytoNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\CondenseArraytoNumber\\Program.cs",
+              "RelativeToolTip": "CondenseArraytoNumber\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:16:33.286Z"
             }
           ]
         }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\ZigZagArrays\\ZigZagArrays.csproj",
+      "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\ZigZagArrays\\ZigZagArrays.csproj",
       "projectName": "ZigZagArrays",
-      "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\ZigZagArrays\\ZigZagArrays.csproj",
+      "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\ZigZagArrays\\ZigZagArrays.csproj",
       "packagesPath": "C:\\Users\\mktod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\ExercisesArraysandLists\\ZigZagArrays\\obj\\",
+      "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\06.3.Exercises-Arrays-and-Lists\\ZigZagArrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mktod\\AppData\\Roaming\\NuGet\\NuGet.Config",
