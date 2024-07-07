@@ -1,0 +1,14 @@
+C:\Users\mktod\source\repos\RegularExamJuly\NutritionandCaloricIntakeAnalysis\bin\Debug\net6.0\NutritionandCaloricIntakeAnalysis.exe
+C:\Users\mktod\source\repos\RegularExamJuly\NutritionandCaloricIntakeAnalysis\bin\Debug\net6.0\NutritionandCaloricIntakeAnalysis.deps.json
+C:\Users\mktod\source\repos\RegularExamJuly\NutritionandCaloricIntakeAnalysis\bin\Debug\net6.0\NutritionandCaloricIntakeAnalysis.runtimeconfig.json
+C:\Users\mktod\source\repos\RegularExamJuly\NutritionandCaloricIntakeAnalysis\bin\Debug\net6.0\NutritionandCaloricIntakeAnalysis.dll
+C:\Users\mktod\source\repos\RegularExamJuly\NutritionandCaloricIntakeAnalysis\bin\Debug\net6.0\NutritionandCaloricIntakeAnalysis.pdb
+C:\Users\mktod\source\repos\RegularExamJuly\NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\NutritionandCaloricIntakeAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\source\repos\RegularExamJuly\NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\NutritionandCaloricIntakeAnalysis.AssemblyInfoInputs.cache
+C:\Users\mktod\source\repos\RegularExamJuly\NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\NutritionandCaloricIntakeAnalysis.AssemblyInfo.cs
+C:\Users\mktod\source\repos\RegularExamJuly\NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\NutritionandCaloricIntakeAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\mktod\source\repos\RegularExamJuly\NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\NutritionandCaloricIntakeAnalysis.dll
+C:\Users\mktod\source\repos\RegularExamJuly\NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\refint\NutritionandCaloricIntakeAnalysis.dll
+C:\Users\mktod\source\repos\RegularExamJuly\NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\NutritionandCaloricIntakeAnalysis.pdb
+C:\Users\mktod\source\repos\RegularExamJuly\NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\NutritionandCaloricIntakeAnalysis.genruntimeconfig.cache
+C:\Users\mktod\source\repos\RegularExamJuly\NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\ref\NutritionandCaloricIntakeAnalysis.dll
