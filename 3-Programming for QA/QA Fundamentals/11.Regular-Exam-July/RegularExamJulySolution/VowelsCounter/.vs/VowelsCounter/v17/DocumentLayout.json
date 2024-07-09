@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\11.Regular-Exam-July\\RegularExamJulySolution\\VowelsCounter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C516C3D-A09F-43DA-BE1C-3FEFE5CE4FD8}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\11.regular-exam-july\\regularexamjulysolution\\vowelscounter\\testapp.tests\\vowelscountertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C516C3D-A09F-43DA-BE1C-3FEFE5CE4FD8}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\vowelscountertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680C07DF-61C9-4149-AD3E-DAD8FC4C3994}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\11.regular-exam-july\\regularexamjulysolution\\vowelscounter\\testapp\\vowelscounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680C07DF-61C9-4149-AD3E-DAD8FC4C3994}|TestApp\\TestApp.csproj|solutionrelative:testapp\\vowelscounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VowelsCounterTests.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\11.Regular-Exam-July\\RegularExamJulySolution\\VowelsCounter\\TestApp.Tests\\VowelsCounterTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\VowelsCounterTests.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\11.Regular-Exam-July\\RegularExamJulySolution\\VowelsCounter\\TestApp.Tests\\VowelsCounterTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\VowelsCounterTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:04:37.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VowelsCounter.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\11.Regular-Exam-July\\RegularExamJulySolution\\VowelsCounter\\TestApp\\VowelsCounter.cs",
+              "RelativeDocumentMoniker": "TestApp\\VowelsCounter.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\11.Regular-Exam-July\\RegularExamJulySolution\\VowelsCounter\\TestApp\\VowelsCounter.cs",
+              "RelativeToolTip": "TestApp\\VowelsCounter.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:04:21.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

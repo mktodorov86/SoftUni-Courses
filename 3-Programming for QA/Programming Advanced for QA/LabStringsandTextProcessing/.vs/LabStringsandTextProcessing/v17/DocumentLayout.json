@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4600293D-321B-4BC9-93C1-826EE0A72F9C}|Digits,LettersandOthers\\Digits,LettersandOthers.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\programming advanced for qa\\labstringsandtextprocessing\\digits,lettersandothers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4600293D-321B-4BC9-93C1-826EE0A72F9C}|Digits,LettersandOthers\\Digits,LettersandOthers.csproj|solutionrelative:digits,lettersandothers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263088AC-49C4-467B-BA5E-3BB6C08E9CC7}|TextFilter\\TextFilter.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\programming advanced for qa\\labstringsandtextprocessing\\textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263088AC-49C4-467B-BA5E-3BB6C08E9CC7}|TextFilter\\TextFilter.csproj|solutionrelative:textfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFDCD99-E2E5-4B51-A299-5518BBCFB667}|Substring\\Substring.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\programming advanced for qa\\labstringsandtextprocessing\\substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFDCD99-E2E5-4B51-A299-5518BBCFB667}|Substring\\Substring.csproj|solutionrelative:substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF6CA91-97B9-419A-8652-7D5F0539B9AE}|RepeatStrings\\RepeatStrings.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\programming advanced for qa\\labstringsandtextprocessing\\repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF6CA91-97B9-419A-8652-7D5F0539B9AE}|RepeatStrings\\RepeatStrings.csproj|solutionrelative:repeatstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBBE518-6751-43F8-AEBB-052B3A7E6CE2}|ReverseStrings\\ReverseStrings.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\programming advanced for qa\\labstringsandtextprocessing\\reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BBBE518-6751-43F8-AEBB-052B3A7E6CE2}|ReverseStrings\\ReverseStrings.csproj|solutionrelative:reversestrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\Digits,LettersandOthers\\Program.cs",
+              "RelativeDocumentMoniker": "Digits,LettersandOthers\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\Digits,LettersandOthers\\Program.cs",
+              "RelativeToolTip": "Digits,LettersandOthers\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:47:22.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\TextFilter\\Program.cs",
+              "RelativeDocumentMoniker": "TextFilter\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\TextFilter\\Program.cs",
+              "RelativeToolTip": "TextFilter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:45:38.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\Substring\\Program.cs",
+              "RelativeDocumentMoniker": "Substring\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\Substring\\Program.cs",
+              "RelativeToolTip": "Substring\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvy0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:38:34.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\RepeatStrings\\Program.cs",
+              "RelativeDocumentMoniker": "RepeatStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\RepeatStrings\\Program.cs",
+              "RelativeToolTip": "RepeatStrings\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvyEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:36:54.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\ReverseStrings\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\ReverseStrings\\Program.cs",
+              "RelativeToolTip": "ReverseStrings\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:11:40.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

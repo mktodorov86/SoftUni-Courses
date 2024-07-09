@@ -1,0 +1,14 @@
+C:\Users\mktod\QAFundamentals\NestedLoops\Building\obj\Debug\net6.0\Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\QAFundamentals\NestedLoops\Building\obj\Debug\net6.0\Building.AssemblyInfoInputs.cache
+C:\Users\mktod\QAFundamentals\NestedLoops\Building\obj\Debug\net6.0\Building.AssemblyInfo.cs
+C:\Users\mktod\QAFundamentals\NestedLoops\Building\obj\Debug\net6.0\Building.csproj.CoreCompileInputs.cache
+C:\Users\mktod\QAFundamentals\NestedLoops\Building\bin\Debug\net6.0\Building.exe
+C:\Users\mktod\QAFundamentals\NestedLoops\Building\bin\Debug\net6.0\Building.deps.json
+C:\Users\mktod\QAFundamentals\NestedLoops\Building\bin\Debug\net6.0\Building.runtimeconfig.json
+C:\Users\mktod\QAFundamentals\NestedLoops\Building\bin\Debug\net6.0\Building.dll
+C:\Users\mktod\QAFundamentals\NestedLoops\Building\bin\Debug\net6.0\Building.pdb
+C:\Users\mktod\QAFundamentals\NestedLoops\Building\obj\Debug\net6.0\Building.dll
+C:\Users\mktod\QAFundamentals\NestedLoops\Building\obj\Debug\net6.0\refint\Building.dll
+C:\Users\mktod\QAFundamentals\NestedLoops\Building\obj\Debug\net6.0\Building.pdb
+C:\Users\mktod\QAFundamentals\NestedLoops\Building\obj\Debug\net6.0\Building.genruntimeconfig.cache
+C:\Users\mktod\QAFundamentals\NestedLoops\Building\obj\Debug\net6.0\ref\Building.dll
