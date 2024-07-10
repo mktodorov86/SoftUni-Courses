@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\02.2.RegularExpressionsRegexLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4F69D3-5033-4ADF-8D9D-3C1AA049E529}|MatchDates\\MatchDates.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\programming advanced for qa\\02.2.regularexpressionsregexlab\\matchdates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4F69D3-5033-4ADF-8D9D-3C1AA049E529}|MatchDates\\MatchDates.csproj|solutionrelative:matchdates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECD3659-F6DB-4863-A3EB-A44329A8C8AA}|MatchPhoneNumber\\MatchPhoneNumber.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\programming advanced for qa\\02.2.regularexpressionsregexlab\\matchphonenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECD3659-F6DB-4863-A3EB-A44329A8C8AA}|MatchPhoneNumber\\MatchPhoneNumber.csproj|solutionrelative:matchphonenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{254E30CB-95FE-45D9-9C7B-7F0D3D27D02A}|MatchFullName\\MatchFullName.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\programming advanced for qa\\02.2.regularexpressionsregexlab\\matchfullname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{254E30CB-95FE-45D9-9C7B-7F0D3D27D02A}|MatchFullName\\MatchFullName.csproj|solutionrelative:matchfullname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\02.2.RegularExpressionsRegexLab\\MatchDates\\Program.cs",
+              "RelativeDocumentMoniker": "MatchDates\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\02.2.RegularExpressionsRegexLab\\MatchDates\\Program.cs",
+              "RelativeToolTip": "MatchDates\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:24:35.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\02.2.RegularExpressionsRegexLab\\MatchPhoneNumber\\Program.cs",
+              "RelativeDocumentMoniker": "MatchPhoneNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\02.2.RegularExpressionsRegexLab\\MatchPhoneNumber\\Program.cs",
+              "RelativeToolTip": "MatchPhoneNumber\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:23:10.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\02.2.RegularExpressionsRegexLab\\MatchFullName\\Program.cs",
+              "RelativeDocumentMoniker": "MatchFullName\\Program.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\02.2.RegularExpressionsRegexLab\\MatchFullName\\Program.cs",
+              "RelativeToolTip": "MatchFullName\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvx0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:21:36.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
