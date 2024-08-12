@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\Digits,LettersandOthers\\Digits,LettersandOthers.csproj": {}
+    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\01.2.Strings-and-Text-Processing-Lab\\Digits,LettersandOthers\\Digits,LettersandOthers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\Digits,LettersandOthers\\Digits,LettersandOthers.csproj": {
+    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\01.2.Strings-and-Text-Processing-Lab\\Digits,LettersandOthers\\Digits,LettersandOthers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\Digits,LettersandOthers\\Digits,LettersandOthers.csproj",
+        "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\01.2.Strings-and-Text-Processing-Lab\\Digits,LettersandOthers\\Digits,LettersandOthers.csproj",
         "projectName": "Digits,LettersandOthers",
-        "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\Digits,LettersandOthers\\Digits,LettersandOthers.csproj",
+        "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\01.2.Strings-and-Text-Processing-Lab\\Digits,LettersandOthers\\Digits,LettersandOthers.csproj",
         "packagesPath": "C:\\Users\\mktod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\Digits,LettersandOthers\\obj\\",
+        "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\01.2.Strings-and-Text-Processing-Lab\\Digits,LettersandOthers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mktod\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

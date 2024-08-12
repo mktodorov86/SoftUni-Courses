@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\Substring\\Substring.csproj": {}
+    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\01.2.Strings-and-Text-Processing-Lab\\Substring\\Substring.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\Substring\\Substring.csproj": {
+    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\01.2.Strings-and-Text-Processing-Lab\\Substring\\Substring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\Substring\\Substring.csproj",
+        "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\01.2.Strings-and-Text-Processing-Lab\\Substring\\Substring.csproj",
         "projectName": "Substring",
-        "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\Substring\\Substring.csproj",
+        "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\01.2.Strings-and-Text-Processing-Lab\\Substring\\Substring.csproj",
         "packagesPath": "C:\\Users\\mktod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\Programming Advanced for QA\\LabStringsandTextProcessing\\Substring\\obj\\",
+        "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\01.2.Strings-and-Text-Processing-Lab\\Substring\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mktod\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

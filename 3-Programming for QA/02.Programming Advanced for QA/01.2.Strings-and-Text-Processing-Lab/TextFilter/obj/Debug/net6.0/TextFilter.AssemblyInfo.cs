@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextFilter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89d0b018c2c4a55d98a57782493f6c977d9d3406")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adb6e5352e267e86774f9823c7a70b5a15f66047")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextFilter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextFilter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
