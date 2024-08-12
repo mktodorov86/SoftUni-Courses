@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\02.programming advanced for qa\\03-resources-unit-testing-exercise-strings-and-regular-expressions\\testapp\\matchurls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|solutionrelative:testapp\\matchurls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\02.programming advanced for qa\\03-resources-unit-testing-exercise-strings-and-regular-expressions\\testapp.unittests\\matchurlstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\matchurlstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\02.programming advanced for qa\\03-resources-unit-testing-exercise-strings-and-regular-expressions\\testapp.unittests\\emailvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\emailvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\02.programming advanced for qa\\03-resources-unit-testing-exercise-strings-and-regular-expressions\\testapp\\matchurls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|solutionrelative:testapp\\matchurls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\02.programming advanced for qa\\03-resources-unit-testing-exercise-strings-and-regular-expressions\\testapp\\matchdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,11 +94,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MatchUrlsTests.cs",
               "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\MatchUrlsTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\MatchUrlsTests.cs",
@@ -111,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EmailValidatorTests.cs",
               "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\EmailValidatorTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\EmailValidatorTests.cs",
@@ -119,12 +123,11 @@
               "RelativeToolTip": "TestApp.UnitTests\\EmailValidatorTests.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T18:08:58.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T18:08:58.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MatchDatesTests.cs",
               "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\MatchDatesTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\MatchDatesTests.cs",
@@ -132,18 +135,17 @@
               "RelativeToolTip": "TestApp.UnitTests\\MatchDatesTests.cs",
               "ViewState": "AQIAADEAAAAAAAAAAAAuwDwAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:50:31.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:50:31.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MatchUrls.cs",
               "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp\\MatchUrls.cs",
               "RelativeDocumentMoniker": "TestApp\\MatchUrls.cs",
               "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp\\MatchUrls.cs",
               "RelativeToolTip": "TestApp\\MatchUrls.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBcAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAB/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T17:51:43.423Z",
               "EditorCaption": ""
@@ -158,12 +160,11 @@
               "RelativeToolTip": "TestApp\\EmailValidator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T18:08:45.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T18:08:45.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PatternTests.cs",
               "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\PatternTests.cs",
               "RelativeDocumentMoniker": "TestApp.UnitTests\\PatternTests.cs",
@@ -171,12 +172,11 @@
               "RelativeToolTip": "TestApp.UnitTests\\PatternTests.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:31:26.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:31:26.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Pattern.cs",
               "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp\\Pattern.cs",
               "RelativeDocumentMoniker": "TestApp\\Pattern.cs",
@@ -184,8 +184,7 @@
               "RelativeToolTip": "TestApp\\Pattern.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAqwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:31:15.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:31:15.46Z"
             },
             {
               "$type": "Document",
@@ -197,12 +196,7 @@
               "RelativeToolTip": "TestApp\\MatchDates.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAqwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:50:20.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-07-11T17:50:20.413Z"
             },
             {
               "$type": "Document",
@@ -214,8 +208,7 @@
               "RelativeToolTip": "TestApp.UnitTests\\MatchPhoneNumbersTests.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAQwD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:48:35.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:48:35.333Z"
             },
             {
               "$type": "Document",
@@ -227,8 +220,7 @@
               "RelativeToolTip": "TestApp\\MatchPhoneNumbers.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:48:24.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:48:24.445Z"
             },
             {
               "$type": "Document",
@@ -240,8 +232,7 @@
               "RelativeToolTip": "TestApp.UnitTests\\MatchNamesTests.cs",
               "ViewState": "AQIAADwAAAAAAAAAAAAQwEwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:36:52.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:36:52.582Z"
             },
             {
               "$type": "Document",
@@ -253,8 +244,7 @@
               "RelativeToolTip": "TestApp\\MatchNames.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:36:37.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:36:37.98Z"
             },
             {
               "$type": "Document",
@@ -266,8 +256,7 @@
               "RelativeToolTip": "TestApp.UnitTests\\ReverseConcatenateTests.cs",
               "ViewState": "AQIAAEcAAAAAAAAAAAAQwFcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:29:21.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:29:21.315Z"
             },
             {
               "$type": "Document",
@@ -279,8 +268,7 @@
               "RelativeToolTip": "TestApp\\ReverseConcatenate.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAxwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:29:07.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:29:07.584Z"
             },
             {
               "$type": "Document",
@@ -292,8 +280,7 @@
               "RelativeToolTip": "TestApp.UnitTests\\RepeatStringsTests.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAYwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:13:44.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:13:44.333Z"
             },
             {
               "$type": "Document",
@@ -305,8 +292,7 @@
               "RelativeToolTip": "TestApp.UnitTests\\TextFilterTests.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAQwDwAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:22:25.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:22:25.211Z"
             },
             {
               "$type": "Document",
@@ -318,8 +304,7 @@
               "RelativeToolTip": "TestApp\\TextFilter.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAqwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:22:14.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:22:14.344Z"
             },
             {
               "$type": "Document",
@@ -331,8 +316,7 @@
               "RelativeToolTip": "TestApp.UnitTests\\SubstringTests.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAAwB8AAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:20:01.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:20:01.224Z"
             },
             {
               "$type": "Document",
@@ -344,8 +328,7 @@
               "RelativeToolTip": "TestApp\\Substring.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAQwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:19:48.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:19:48.633Z"
             },
             {
               "$type": "Document",
@@ -357,8 +340,7 @@
               "RelativeToolTip": "TestApp\\RepeatStrings.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAqwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T17:13:49.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:13:49.244Z"
             },
             {
               "$type": "Document",
@@ -370,8 +352,7 @@
               "RelativeToolTip": "TestApp.UnitTests\\TestApp.UnitTests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-11T17:12:21.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T17:12:21.926Z"
             }
           ]
         }
