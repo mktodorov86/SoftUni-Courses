@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\18-Exam-Preparation-3-Resources\\Exam-Preparation-3-Resources\\02-Grades-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FEA7A-AA4D-45B1-B39D-713555B5E760}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\02.programming advanced for qa\\18-exam-preparation-3-resources\\exam-preparation-3-resources\\02-grades-resources\\testapp.tests\\gradestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FEA7A-AA4D-45B1-B39D-713555B5E760}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\gradestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA24381-6C0E-4B7C-9E26-8CBE91CB9E3C}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\02.programming advanced for qa\\18-exam-preparation-3-resources\\exam-preparation-3-resources\\02-grades-resources\\testapp\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA24381-6C0E-4B7C-9E26-8CBE91CB9E3C}|TestApp\\TestApp.csproj|solutionrelative:testapp\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradesTests.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\18-Exam-Preparation-3-Resources\\Exam-Preparation-3-Resources\\02-Grades-Resources\\TestApp.Tests\\GradesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\GradesTests.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\18-Exam-Preparation-3-Resources\\Exam-Preparation-3-Resources\\02-Grades-Resources\\TestApp.Tests\\GradesTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\GradesTests.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwEgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:29:11.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\18-Exam-Preparation-3-Resources\\Exam-Preparation-3-Resources\\02-Grades-Resources\\TestApp\\Grades.cs",
+              "RelativeDocumentMoniker": "TestApp\\Grades.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\18-Exam-Preparation-3-Resources\\Exam-Preparation-3-Resources\\02-Grades-Resources\\TestApp\\Grades.cs",
+              "RelativeToolTip": "TestApp\\Grades.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:28:53.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
