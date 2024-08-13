@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\17-Exam-Preparation-2-Resources (2)\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30ACFD80-A560-434F-B1F1-EB0308B1A281}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\02.programming advanced for qa\\17-exam-preparation-2-resources (2)\\exam-preparation-2-resources\\02-fruits-resources\\testapp.tests\\fruitstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30ACFD80-A560-434F-B1F1-EB0308B1A281}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\fruitstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30ACFD80-A560-434F-B1F1-EB0308B1A281}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\02.programming advanced for qa\\17-exam-preparation-2-resources (2)\\exam-preparation-2-resources\\02-fruits-resources\\testapp.tests\\testapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30ACFD80-A560-434F-B1F1-EB0308B1A281}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\testapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C52EFD2-41BD-4401-A054-CD1E7921029D}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\02.programming advanced for qa\\17-exam-preparation-2-resources (2)\\exam-preparation-2-resources\\02-fruits-resources\\testapp\\fruits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C52EFD2-41BD-4401-A054-CD1E7921029D}|TestApp\\TestApp.csproj|solutionrelative:testapp\\fruits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FruitsTests.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\17-Exam-Preparation-2-Resources (2)\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp.Tests\\FruitsTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\FruitsTests.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\17-Exam-Preparation-2-Resources (2)\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp.Tests\\FruitsTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\FruitsTests.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAUwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:45:15.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestApp.Tests",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\17-Exam-Preparation-2-Resources (2)\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp.Tests\\TestApp.Tests.csproj",
+              "RelativeDocumentMoniker": "TestApp.Tests\\TestApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\17-Exam-Preparation-2-Resources (2)\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp.Tests\\TestApp.Tests.csproj",
+              "RelativeToolTip": "TestApp.Tests\\TestApp.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T11:45:12.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fruits.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\17-Exam-Preparation-2-Resources (2)\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\Fruits.cs",
+              "RelativeDocumentMoniker": "TestApp\\Fruits.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\17-Exam-Preparation-2-Resources (2)\\Exam-Preparation-2-Resources\\02-Fruits-Resources\\TestApp\\Fruits.cs",
+              "RelativeToolTip": "TestApp\\Fruits.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T11:45:00.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
