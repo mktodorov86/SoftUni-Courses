@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation \u0438 Programming Advanced for QA\\4-Exercise Data Formats\\YamlToHtml\\YamlToHtml\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F1900-5BC4-40AE-B580-7386ED4ED8C3}|YamlToHtml.csproj|c:\\users\\mktod\\documents\\softuni-courses\\4-back-end test automation \u0438 programming advanced for qa\\4-exercise data formats\\yamltohtml\\yamltohtml\\datasets\\reservations.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1B3F1900-5BC4-40AE-B580-7386ED4ED8C3}|YamlToHtml.csproj|solutionrelative:datasets\\reservations.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3F1900-5BC4-40AE-B580-7386ED4ED8C3}|YamlToHtml.csproj|c:\\users\\mktod\\documents\\softuni-courses\\4-back-end test automation \u0438 programming advanced for qa\\4-exercise data formats\\yamltohtml\\yamltohtml\\datasets\\orders.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1B3F1900-5BC4-40AE-B580-7386ED4ED8C3}|YamlToHtml.csproj|solutionrelative:datasets\\orders.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reservations.yaml",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation \u0438 Programming Advanced for QA\\4-Exercise Data Formats\\YamlToHtml\\YamlToHtml\\Datasets\\Reservations.yaml",
+              "RelativeDocumentMoniker": "Datasets\\Reservations.yaml",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation \u0438 Programming Advanced for QA\\4-Exercise Data Formats\\YamlToHtml\\YamlToHtml\\Datasets\\Reservations.yaml",
+              "RelativeToolTip": "Datasets\\Reservations.yaml",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvywAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-15T12:12:43.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orders.yaml",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation \u0438 Programming Advanced for QA\\4-Exercise Data Formats\\YamlToHtml\\YamlToHtml\\Datasets\\Orders.yaml",
+              "RelativeDocumentMoniker": "Datasets\\Orders.yaml",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation \u0438 Programming Advanced for QA\\4-Exercise Data Formats\\YamlToHtml\\YamlToHtml\\Datasets\\Orders.yaml",
+              "RelativeToolTip": "Datasets\\Orders.yaml",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvx0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-15T12:11:33.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

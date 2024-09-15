@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation \u0438 Programming Advanced for QA\\4-Exercise Data Formats\\JsonParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE015F-798B-4211-AFEA-F5BB3E2C1895}|JsonParser.csproj|c:\\users\\mktod\\documents\\softuni-courses\\4-back-end test automation \u0438 programming advanced for qa\\4-exercise data formats\\jsonparser\\datasets\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADCE015F-798B-4211-AFEA-F5BB3E2C1895}|JsonParser.csproj|solutionrelative:datasets\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE015F-798B-4211-AFEA-F5BB3E2C1895}|JsonParser.csproj|c:\\users\\mktod\\documents\\softuni-courses\\4-back-end test automation \u0438 programming advanced for qa\\4-exercise data formats\\jsonparser\\datasets\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADCE015F-798B-4211-AFEA-F5BB3E2C1895}|JsonParser.csproj|solutionrelative:datasets\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Students.json",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation \u0438 Programming Advanced for QA\\4-Exercise Data Formats\\JsonParser\\Datasets\\Students.json",
+              "RelativeDocumentMoniker": "Datasets\\Students.json",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation \u0438 Programming Advanced for QA\\4-Exercise Data Formats\\JsonParser\\Datasets\\Students.json",
+              "RelativeToolTip": "Datasets\\Students.json",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-15T12:01:15.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Books.json",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation \u0438 Programming Advanced for QA\\4-Exercise Data Formats\\JsonParser\\Datasets\\Books.json",
+              "RelativeDocumentMoniker": "Datasets\\Books.json",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation \u0438 Programming Advanced for QA\\4-Exercise Data Formats\\JsonParser\\Datasets\\Books.json",
+              "RelativeToolTip": "Datasets\\Books.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-15T12:01:12.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

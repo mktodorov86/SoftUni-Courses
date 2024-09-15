@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rnpSYykIxcc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation и Programming Advanced for QA\\4-Exercise Data Formats\\YamlToHtml\\YamlToHtml\\YamlToHtml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mktod\\.nuget\\packages\\yamldotnet\\13.7.1\\yamldotnet.13.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

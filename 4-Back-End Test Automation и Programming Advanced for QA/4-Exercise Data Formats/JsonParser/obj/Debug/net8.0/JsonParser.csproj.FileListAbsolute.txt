@@ -1,0 +1,17 @@
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.exe
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\bin\Debug\net8.0\Datasets\Books.json
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\bin\Debug\net8.0\Datasets\Students.json
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.deps.json
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.runtimeconfig.json
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.dll
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfoInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfo.cs
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.csproj.CoreCompileInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.sourcelink.json
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.dll
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\obj\Debug\net8.0\refint\JsonParser.dll
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.genruntimeconfig.cache
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\obj\Debug\net8.0\ref\JsonParser.dll

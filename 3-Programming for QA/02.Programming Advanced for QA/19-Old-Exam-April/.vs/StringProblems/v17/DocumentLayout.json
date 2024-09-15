@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\19-Old-Exam-April\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{932D8F5E-3A10-4172-8448-426B6F52347A}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\02.programming advanced for qa\\19-old-exam-april\\testapp.tests\\stringmodifiertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932D8F5E-3A10-4172-8448-426B6F52347A}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\stringmodifiertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932D8F5E-3A10-4172-8448-426B6F52347A}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\02.programming advanced for qa\\19-old-exam-april\\testapp.tests\\testapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{932D8F5E-3A10-4172-8448-426B6F52347A}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\testapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94635F62-C64B-43D6-B268-E6B38B1CE0A4}|TestApp\\TestApp.csproj|c:\\users\\mktod\\documents\\softuni-courses\\3-programming for qa\\02.programming advanced for qa\\19-old-exam-april\\testapp\\stringmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94635F62-C64B-43D6-B268-E6B38B1CE0A4}|TestApp\\TestApp.csproj|solutionrelative:testapp\\stringmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringModifierTests.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\19-Old-Exam-April\\TestApp.Tests\\StringModifierTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\StringModifierTests.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\19-Old-Exam-April\\TestApp.Tests\\StringModifierTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\StringModifierTests.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwDcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:33:50.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestApp.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\19-Old-Exam-April\\TestApp.Tests\\TestApp.Tests.csproj",
+              "RelativeDocumentMoniker": "TestApp.Tests\\TestApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\19-Old-Exam-April\\TestApp.Tests\\TestApp.Tests.csproj",
+              "RelativeToolTip": "TestApp.Tests\\TestApp.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T15:33:46.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringModifier.cs",
+              "DocumentMoniker": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\19-Old-Exam-April\\TestApp\\StringModifier.cs",
+              "RelativeDocumentMoniker": "TestApp\\StringModifier.cs",
+              "ToolTip": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\3-Programming for QA\\02.Programming Advanced for QA\\19-Old-Exam-April\\TestApp\\StringModifier.cs",
+              "RelativeToolTip": "TestApp\\StringModifier.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:33:29.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

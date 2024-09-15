@@ -1,0 +1,17 @@
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.exe
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\bin\Debug\net6.0\Datasets\Devices.xml
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\bin\Debug\net6.0\Datasets\Vehicles.xml
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.deps.json
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.runtimeconfig.json
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.dll
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\bin\Debug\net6.0\XmlToJson.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfoInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfo.cs
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.csproj.CoreCompileInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.sourcelink.json
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.dll
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\refint\XmlToJson.dll
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\XmlToJson.genruntimeconfig.cache
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\XmlToJson\XmlToJson\obj\Debug\net6.0\ref\XmlToJson.dll
