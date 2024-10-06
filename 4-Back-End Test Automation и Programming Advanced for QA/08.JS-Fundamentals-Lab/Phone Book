@@ -1,0 +1,12 @@
+function storeContactInfo(input) {
+    const contacts = {};
+
+    input.forEach(entry => {
+        const [name, number] = entry.split(' ');
+        contacts[name] = number; // This will replace duplicate names with the latest number
+    });
+
+    for (const name in contacts) {
+        console.log(`${name} -> ${contacts[name]}`);
+    }
+}

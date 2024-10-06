@@ -1,0 +1,21 @@
+function calculateDifference(arr) {
+    let evenSum = 0;
+    let oddSum = 0;
+
+    // Loop through each number in the array
+    arr.forEach(num => {
+        if (num % 2 === 0) {  // Check if the number is even
+            evenSum += num;
+        } else {  // The number is odd
+            oddSum += num;
+        }
+    });
+
+    // Calculate the difference between even sum and odd sum
+    return evenSum - oddSum;
+}
+
+// Example usage
+const arr = [10, 23, 36, 47, 55, 62];
+const result = calculateDifference(arr);
+console.log("Difference between sum of even and odd numbers:", result);

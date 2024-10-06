@@ -1,0 +1,3 @@
+function substringByIndex(s, start, count) {
+    console.log(s.substring(start, start + count));
+}
