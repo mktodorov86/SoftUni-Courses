@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation и Programming Advanced for QA\\4-Exercise Data Formats\\JsonParser\\JsonParser.csproj": {}
+    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation и Programming Advanced for QA\\02.Data-Formats-JSON-YAML-XML-Exercise\\JsonParser\\JsonParser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation и Programming Advanced for QA\\4-Exercise Data Formats\\JsonParser\\JsonParser.csproj": {
+    "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation и Programming Advanced for QA\\02.Data-Formats-JSON-YAML-XML-Exercise\\JsonParser\\JsonParser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation и Programming Advanced for QA\\4-Exercise Data Formats\\JsonParser\\JsonParser.csproj",
+        "projectUniqueName": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation и Programming Advanced for QA\\02.Data-Formats-JSON-YAML-XML-Exercise\\JsonParser\\JsonParser.csproj",
         "projectName": "JsonParser",
-        "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation и Programming Advanced for QA\\4-Exercise Data Formats\\JsonParser\\JsonParser.csproj",
+        "projectPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation и Programming Advanced for QA\\02.Data-Formats-JSON-YAML-XML-Exercise\\JsonParser\\JsonParser.csproj",
         "packagesPath": "C:\\Users\\mktod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation и Programming Advanced for QA\\4-Exercise Data Formats\\JsonParser\\obj\\",
+        "outputPath": "C:\\Users\\mktod\\Documents\\SoftUni-Courses\\4-Back-End Test Automation и Programming Advanced for QA\\02.Data-Formats-JSON-YAML-XML-Exercise\\JsonParser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mktod\\AppData\\Roaming\\NuGet\\NuGet.Config",

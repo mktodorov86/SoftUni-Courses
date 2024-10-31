@@ -1,0 +1,16 @@
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\bin\Debug\net6.0\JsonParser.exe
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\bin\Debug\net6.0\Datasets\Cars.json
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\bin\Debug\net6.0\JsonParser.deps.json
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\bin\Debug\net6.0\JsonParser.dll
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\bin\Debug\net6.0\JsonParser.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\obj\Debug\net6.0\JsonParser.sourcelink.json
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\obj\Debug\net6.0\JsonParser.dll
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\obj\Debug\net6.0\refint\JsonParser.dll
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\obj\Debug\net6.0\JsonParser.pdb
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\Exam-Prep2\01.Automotive-Data-Challenge-Problem-Description\obj\Debug\net6.0\ref\JsonParser.dll

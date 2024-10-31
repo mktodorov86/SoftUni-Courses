@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = JsonParser
-build_property.ProjectDir = C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\4-Exercise Data Formats\JsonParser\
+build_property.ProjectDir = C:\Users\mktod\Documents\SoftUni-Courses\4-Back-End Test Automation и Programming Advanced for QA\02.Data-Formats-JSON-YAML-XML-Exercise\JsonParser\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
