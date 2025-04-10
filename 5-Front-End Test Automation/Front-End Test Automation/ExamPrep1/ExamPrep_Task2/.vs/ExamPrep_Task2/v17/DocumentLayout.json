@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayrol\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\ExamPrep1_Task_2\\ExamPrep_Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B60FBFD-0FC6-45F8-8624-3347A351383C}|ExamPrep_Task2\\ExamPrep_Task2.csproj|c:\\users\\ayrol\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\examprep1_task_2\\examprep_task2\\examprep_task2\\ideacentertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B60FBFD-0FC6-45F8-8624-3347A351383C}|ExamPrep_Task2\\ExamPrep_Task2.csproj|solutionrelative:examprep_task2\\ideacentertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdeaCenterTests.cs",
+              "DocumentMoniker": "C:\\Users\\ayrol\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\ExamPrep1_Task_2\\ExamPrep_Task2\\ExamPrep_Task2\\IdeaCenterTests.cs",
+              "RelativeDocumentMoniker": "ExamPrep_Task2\\IdeaCenterTests.cs",
+              "ToolTip": "C:\\Users\\ayrol\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\ExamPrep1_Task_2\\ExamPrep_Task2\\ExamPrep_Task2\\IdeaCenterTests.cs",
+              "RelativeToolTip": "ExamPrep_Task2\\IdeaCenterTests.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAADwv3AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:18:45.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
