@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExamPrep_Task2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55fcfa7f30c54e59ccfeb4f72abca19daf9ef498")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f218d5c898ea9049fbac73b0acbc52b9acd8573a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExamPrep_Task2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExamPrep_Task2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

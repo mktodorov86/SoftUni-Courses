@@ -1,0 +1,344 @@
+{
+  "id": "b24b4a98-19a1-4ce2-89b1-6b6cc61b58a3",
+  "version": "2.0",
+  "name": "SimpleNotesUiTests",
+  "url": "https://d5wfqm7y6yb3q.cloudfront.net/  ",
+  "tests": [{
+    "id": "45c3f3fc-bdf0-4ed1-8ffb-c260948d5abc",
+    "name": " Landing Page Navigation Test",
+    "commands": [{
+      "id": "daa07dbb-6108-45dd-96d6-0d417aacdd49",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8e712b16-25e7-45fb-821b-6e1035aeee13",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1080",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "eb8b1a78-777c-4472-bb8b-dd5ca9c8de3e",
+      "comment": "",
+      "command": "assertTitle",
+      "target": "Home Page - SimpleNotes.WebApp",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa6780c0-8e95-4299-82b3-c23a189921fa",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=.btn",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=//a[contains(text(),'Join us now!')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/User/LoginRegister')]", "xpath:href"],
+        ["xpath=//a", "xpath:position"]
+      ],
+      "value": "JOIN US NOW!"
+    }, {
+      "id": "6e41417e-194f-46bb-937f-2333930710cb",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "4f524ef4-5f29-4bed-ad67-549ad6e8f319",
+    "name": "Log In Test",
+    "commands": [{
+      "id": "f7e5b778-ddfb-4399-9039-814dfa99a117",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6fa1b7e0-c0ad-4c49-ba6a-6f52a50ca66e",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1080",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fe43574a-5570-434a-b2f9-6d8ba56f82ca",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=//a[contains(text(),'Join us now!')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/User/LoginRegister')]", "xpath:href"],
+        ["xpath=//a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ba82dd0b-3e12-467a-a9a5-4a8e3e0a6c3f",
+      "comment": "",
+      "command": "click",
+      "target": "id=tab-login",
+      "targets": [
+        ["id=tab-login", "id"],
+        ["css=#tab-login", "css:finder"],
+        ["xpath=//a[contains(text(),'Login')]", "xpath:link"],
+        ["xpath=//a[@id='tab-login']", "xpath:attributes"],
+        ["xpath=//ul[@id='ex1']/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#pills-login')]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "fb65dc41-5e2f-48db-b26a-1974962f70d8",
+      "comment": "",
+      "command": "click",
+      "target": "id=loginName",
+      "targets": [
+        ["id=loginName", "id"],
+        ["name=LoginModel.Email", "name"],
+        ["css=#loginName", "css:finder"],
+        ["xpath=//input[@id='loginName']", "xpath:attributes"],
+        ["xpath=//div[@id='pills-login']/form/div[2]/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5d910d1e-711c-4cbe-ae33-6d15f5e3f434",
+      "comment": "",
+      "command": "type",
+      "target": "id=loginName",
+      "targets": [
+        ["id=loginName", "id"],
+        ["name=LoginModel.Email", "name"],
+        ["css=#loginName", "css:finder"],
+        ["xpath=//input[@id='loginName']", "xpath:attributes"],
+        ["xpath=//div[@id='pills-login']/form/div[2]/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "mktodorov86@gmail.com"
+    }, {
+      "id": "14a21ec6-f4ac-45f7-93eb-132293e0fc17",
+      "comment": "",
+      "command": "click",
+      "target": "id=loginPassword",
+      "targets": [
+        ["id=loginPassword", "id"],
+        ["name=LoginModel.Password", "name"],
+        ["css=#loginPassword", "css:finder"],
+        ["xpath=//input[@id='loginPassword']", "xpath:attributes"],
+        ["xpath=//div[@id='pills-login']/form/div[3]/input", "xpath:idRelative"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "accb23bc-d8d1-4e1e-bf05-9e7c48acf72c",
+      "comment": "",
+      "command": "type",
+      "target": "id=loginPassword",
+      "targets": [
+        ["id=loginPassword", "id"],
+        ["name=LoginModel.Password", "name"],
+        ["css=#loginPassword", "css:finder"],
+        ["xpath=//input[@id='loginPassword']", "xpath:attributes"],
+        ["xpath=//div[@id='pills-login']/form/div[3]/input", "xpath:idRelative"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": "Kabalo119866!"
+    }, {
+      "id": "25df77eb-3f66-4105-83e7-93293e7d77e2",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@type='submit']",
+      "targets": [
+        ["css=.ripple-surface", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//div[@id='pills-login']/form/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a62fb28c-0201-4b94-a7be-7cdce4e4ec51",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "Main Page - Simple Notes",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a2beea8d-cf02-4081-bd38-3e02fc8332cc",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Logout",
+      "targets": [
+        ["css=.ripple-surface > span", "css:finder"],
+        ["xpath=//nav[@id='sidebarMenu']/div/div/a[3]/span", "xpath:idRelative"],
+        ["xpath=//a[3]/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Logout')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "98bbe6fa-c95d-46ad-9f19-64c880774a73",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=.btn",
+      "targets": [],
+      "value": "JOIN US NOW!"
+    }, {
+      "id": "3693b416-5624-4229-b976-617eb8247222",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "5d43920b-ee0c-4895-801f-efbde5a6a1ec",
+    "name": "View Profile Test",
+    "commands": [{
+      "id": "d48b3b28-ba7e-4aab-bdea-52684c519f00",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f53f1298-a878-492f-aea8-b5131b7a4d30",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1080",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fca9749a-0349-4333-87ad-2ceebeaa6327",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=//a[contains(text(),'Join us now!')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/User/LoginRegister')]", "xpath:href"],
+        ["xpath=//a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "60a57882-d4d9-4033-aec7-6248ee45d216",
+      "comment": "",
+      "command": "click",
+      "target": "id=tab-login",
+      "targets": [
+        ["id=tab-login", "id"],
+        ["css=#tab-login", "css:finder"],
+        ["xpath=//a[contains(text(),'Login')]", "xpath:link"],
+        ["xpath=//a[@id='tab-login']", "xpath:attributes"],
+        ["xpath=//ul[@id='ex1']/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#pills-login')]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b654ade3-0dab-4d43-abb7-8811dbaeb575",
+      "comment": "",
+      "command": "click",
+      "target": "id=loginName",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "316504b4-cdd9-4379-9711-0711d2ec0efe",
+      "comment": "",
+      "command": "type",
+      "target": "id=loginName",
+      "targets": [],
+      "value": "mktodorov86@gmail.com"
+    }, {
+      "id": "b9c5f775-c276-4b11-bab4-fa45f76bc33f",
+      "comment": "",
+      "command": "click",
+      "target": "id=loginPassword",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6ba36d54-8a41-4d83-9701-5f5027a288de",
+      "comment": "",
+      "command": "type",
+      "target": "id=loginPassword",
+      "targets": [],
+      "value": "Kabalo119866!"
+    }, {
+      "id": "5524b48a-4d32-4a16-8b7d-2b2b937d37d3",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@type='submit']",
+      "targets": [
+        ["css=.ripple-surface", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//div[@id='pills-login']/form/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "68fe3b7d-cea7-4a2e-ab9c-8eb6e26ae7a5",
+      "comment": "",
+      "command": "click",
+      "target": "css=#navbarDropdownMenuLink > .rounded-circle",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6667d75a-62c3-41c6-9827-fe8de759ac0c",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=My profile",
+      "targets": [
+        ["linkText=My profile", "linkText"],
+        ["css=li:nth-child(1) > .dropdown-item", "css:finder"],
+        ["xpath=//a[contains(text(),'My profile')]", "xpath:link"],
+        ["xpath=//nav[@id='main-navbar']/div/ul/li/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/Profile')]", "xpath:href"],
+        ["xpath=//li/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'My profile')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "9e61d57b-6157-457f-a6b9-0f3e8f7144f7",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=.text-muted:nth-child(3)",
+      "targets": [
+        ["css=.text-muted:nth-child(3)", "css:finder"],
+        ["xpath=//p", "xpath:position"],
+        ["xpath=//p[contains(.,'Username: mktodorov86 | Email: mktodorov86@gmail.com')]", "xpath:innerText"]
+      ],
+      "value": "Username: mktodorov86 | Email: mktodorov86@gmail.com"
+    }, {
+      "id": "9dfffd10-fc55-4c89-954f-2790f9111b5a",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Logout",
+      "targets": [
+        ["css=.ripple-surface > span", "css:finder"],
+        ["xpath=//nav[@id='sidebarMenu']/div/div/a[3]/span", "xpath:idRelative"],
+        ["xpath=//a[3]/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Logout')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f382bcfe-d10a-4370-a9f6-c8393da75077",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "Home Page - SimpleNotes.WebApp",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "ebefa02b-61a7-45df-b3e5-79bcf30994c2",
+    "name": "Landing and Auth Tests",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["45c3f3fc-bdf0-4ed1-8ffb-c260948d5abc", "4f524ef4-5f29-4bed-ad67-549ad6e8f319", "5d43920b-ee0c-4895-801f-efbde5a6a1ec"]
+  }],
+  "urls": ["https://d5wfqm7y6yb3q.cloudfront.net/"],
+  "plugins": []
+}
